@@ -1,0 +1,8 @@
+{
+    "IGUI_ZomboDesire_MiniGame_Timeout": "Você se recusou a falar com o zumbi",
+    "IGUI_ZomboDesire_MiniGame_FailRed": "O zumbi não quer falar com você",
+    "IGUI_ZomboDesire_MiniGame_FailOrange": "O zumbi está relutante em falar com você",
+    "IGUI_ZomboDesire_Halo_ItemLost": "Item perdido:",
+    "IGUI_ZomboDesire_Halo_ItemDamaged": "Item danificado:",
+    "IGUI_ZomboDesire_Animation_Interrupted": "O quê?!\nEsse infectado desistiu?!\nTenho uma chance de fugir!"
+}

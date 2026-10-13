@@ -1,0 +1,170 @@
+module Base
+{
+	sound SFXShinlalalaWetPlap
+	{
+		category = Player,
+		is3D = true,
+		loop = false,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Shinlalala_WetPlap_01.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Shinlalala_WetPlap_02.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Shinlalala_WetPlap_03.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Shinlalala_WetPlap_04.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Shinlalala_WetPlap_05.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Shinlalala_WetPlap_06.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Shinlalala_WetPlap_07.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Shinlalala_WetPlap_08.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Shinlalala_WetPlap_09.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Shinlalala_WetPlap_10.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Shinlalala_WetPlap_11.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Shinlalala_WetPlap_12.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Shinlalala_WetPlap_13.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Shinlalala_WetPlap_14.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Shinlalala_WetPlap_15.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Shinlalala_WetPlap_16.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+	}
+}

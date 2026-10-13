@@ -1,0 +1,110 @@
+module Base
+{
+	sound MaryanneBreathFast
+	{
+		category = Player,
+		is3D = true,
+		loop = false,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Breath_Fast_01.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Breath_Fast_02.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Breath_Fast_03.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Breath_Fast_04.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Breath_Fast_05.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Breath_Fast_06.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Breath_Fast_07.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Breath_Fast_08.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Breath_Fast_09.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Breath_Fast_10.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+	}
+}

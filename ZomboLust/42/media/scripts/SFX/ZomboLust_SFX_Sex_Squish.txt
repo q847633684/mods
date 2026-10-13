@@ -1,0 +1,230 @@
+module Base
+{
+	sound SFXSexSquish
+	{
+		category = Player,
+		is3D = true,
+		loop = false,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Sex_Squish_01.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Sex_Squish_02.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Sex_Squish_03.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Sex_Squish_04.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Sex_Squish_05.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Sex_Squish_06.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Sex_Squish_07.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Sex_Squish_08.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Sex_Squish_09.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Sex_Squish_10.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Sex_Squish_11.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Sex_Squish_12.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Sex_Squish_13.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Sex_Squish_14.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Sex_Squish_15.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Sex_Squish_16.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Sex_Squish_17.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Sex_Squish_18.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Sex_Squish_19.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Sex_Squish_20.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Sex_Squish_21.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Sex_Squish_22.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+	}
+}

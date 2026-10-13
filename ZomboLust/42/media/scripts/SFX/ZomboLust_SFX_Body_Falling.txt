@@ -1,0 +1,300 @@
+module Base
+{
+	sound SFXBodyFalling
+	{
+		category = Player,
+		is3D = true,
+		loop = false,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_01.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_02.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_03.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_04.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_05.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_06.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_07.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_08.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_09.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_10.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_11.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_12.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_13.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_14.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_15.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_16.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_17.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_18.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_19.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_20.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_21.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_22.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_23.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_24.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_25.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_26.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_27.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_28.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Body_Falling_29.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+	}
+}

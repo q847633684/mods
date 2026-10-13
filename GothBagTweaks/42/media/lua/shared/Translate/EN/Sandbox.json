@@ -1,0 +1,13 @@
+{
+    "Sandbox_TWALT_GothStartKit": "Give goth chest rigs at start",
+    "Sandbox_TWALT_GothStartKit_tooltip": "GothBagTweaks: puts the goth chest rigs into a new character's inventory at spawn. A character created before this option existed is given them once on load. Master switch - turn it off to give nothing.",
+
+    "Sandbox_TWALT_GothStartKitFull": "Chest Rig - Full, loose (Goth_ChestRigFull_Loose)",
+    "Sandbox_TWALT_GothStartKitFull_tooltip": "Give Goth_ChestRigFull_Loose: capacity 8, weight reduction 80%.",
+
+    "Sandbox_TWALT_GothStartKitFullTight": "Chest Rig - Full, tight (Goth_ChestRigFull_Tight)",
+    "Sandbox_TWALT_GothStartKitFullTight_tooltip": "Give Goth_ChestRigFull_Tight. Identical stats to the loose one, only the worn model differs (switch with the right-click menu). Not needed if you already take the loose one.",
+
+    "Sandbox_TWALT_GothStartKitSmall": "Chest Rig, loose (Goth_ChestRig_Loose)",
+    "Sandbox_TWALT_GothStartKitSmall_tooltip": "Give Goth_ChestRig_Loose: capacity 6, weight reduction 80%."
+}

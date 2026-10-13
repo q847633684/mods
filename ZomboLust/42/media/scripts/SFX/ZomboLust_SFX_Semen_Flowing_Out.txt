@@ -1,0 +1,160 @@
+module Base
+{
+	sound SFXSemenFlowingOut
+	{
+		category = Player,
+		is3D = true,
+		loop = false,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Semen_Flowing_Out_01.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Semen_Flowing_Out_02.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Semen_Flowing_Out_03.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Semen_Flowing_Out_04.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Semen_Flowing_Out_05.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Semen_Flowing_Out_06.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Semen_Flowing_Out_07.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Semen_Flowing_Out_08.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Semen_Flowing_Out_09.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Semen_Flowing_Out_10.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Semen_Flowing_Out_11.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Semen_Flowing_Out_12.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Semen_Flowing_Out_13.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Semen_Flowing_Out_14.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Semen_Flowing_Out_15.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+	}
+}

@@ -1,0 +1,340 @@
+module Base
+{
+	sound SFXSlappingWet
+	{
+		category = Player,
+		is3D = true,
+		loop = false,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_01.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_02.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_03.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_04.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_05.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_06.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_07.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_08.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_09.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_10.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_11.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_12.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_13.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_14.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_15.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_16.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_17.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_18.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_19.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_20.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_21.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_22.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_23.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_24.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_25.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_26.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_27.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_28.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_29.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_30.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_31.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_32.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/SFX/SFX_Slapping_Wet_33.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+	}
+}

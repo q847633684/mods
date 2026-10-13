@@ -1,0 +1,170 @@
+module Base
+{
+	sound JanineBreathHeavy
+	{
+		category = Player,
+		is3D = true,
+		loop = false,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Breath_Heavy_01.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Breath_Heavy_02.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Breath_Heavy_03.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Breath_Heavy_04.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Breath_Heavy_05.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Breath_Heavy_06.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Breath_Heavy_07.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Breath_Heavy_08.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Breath_Heavy_09.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Breath_Heavy_10.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Breath_Heavy_11.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Breath_Heavy_12.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Breath_Heavy_13.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Breath_Heavy_14.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Breath_Heavy_15.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Breath_Heavy_16.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+	}
+}

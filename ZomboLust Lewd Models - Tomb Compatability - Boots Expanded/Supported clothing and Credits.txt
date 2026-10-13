@@ -1,0 +1,11 @@
+----------------------------------------------------------------------------------------------------
+Boots Expanded: 
+https://steamcommunity.com/sharedfiles/filedetails/?id=2850935956
+
+All Shoes have been replaced with custom models.
+----------------------------------------------------------------------------------------------------
+Added and copied from media directory (b41) :
+
+Shoes_BootsBrown.xml
+Shoes_DrMartens.xml
+----------------------------------------------------------------------------------------------------

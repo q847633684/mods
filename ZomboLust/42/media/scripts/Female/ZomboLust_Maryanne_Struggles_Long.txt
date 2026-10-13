@@ -1,0 +1,180 @@
+module Base
+{
+	sound MaryanneStrugglesLong
+	{
+		category = Player,
+		is3D = true,
+		loop = false,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Long_01.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Long_02.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Long_03.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Long_04.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Long_05.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Long_06.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Long_07.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Long_08.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Long_09.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Long_10.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Long_11.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Long_12.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Long_13.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Long_14.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Long_15.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Long_16.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Long_17.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+	}
+}

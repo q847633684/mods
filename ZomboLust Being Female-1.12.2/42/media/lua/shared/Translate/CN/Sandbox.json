@@ -1,0 +1,13 @@
+{
+    "Sandbox_ZLBF": "(ZLBF) 身为女性",
+    "Sandbox_ZLBF_Milk_Capacity": "母乳容量 (L)",
+    "Sandbox_ZLBF_Milk_Capacity_tooltip": "乳房可容纳的最大母乳量（毫升/ml）",
+    "Sandbox_ZLBF_Milk_Expiration": "退奶/泌乳停止天数",
+    "Sandbox_ZLBF_Milk_Expiration_tooltip": "若未进行吸奶或排空，自然停止泌乳所需的天数",
+    "Sandbox_ZLBF_Pregnancy_Duration": "妊娠持续时间",
+    "Sandbox_ZLBF_Pregnancy_Duration_tooltip": "怀孕状态持续的天数",
+    "Sandbox_ZLBF_Pregnancy_Recovery": "产后恢复时间",
+    "Sandbox_ZLBF_Pregnancy_Recovery_tooltip": "分娩后到月经周期重新开始所需的间隔天数",
+    "Sandbox_ZLBF_Womb_Max_Capacity": "子宫容量 (L)",
+    "Sandbox_ZLBF_Womb_Max_Capacity_tooltip": "子宫可容纳的最大精液量"
+}

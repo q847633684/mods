@@ -1,0 +1,280 @@
+module Base
+{
+	sound CaseyjoStrugglesAbigailHard
+	{
+		category = Player,
+		is3D = true,
+		loop = false,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_01.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_02.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_03.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_04.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_05.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_06.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_07.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_08.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_09.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_10.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_11.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_12.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_13.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_14.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_15.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_16.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_17.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_18.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_19.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_20.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_21.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_22.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_23.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_24.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_25.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_26.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Hard_27.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+	}
+}

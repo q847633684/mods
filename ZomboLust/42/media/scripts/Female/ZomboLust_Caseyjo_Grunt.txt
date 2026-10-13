@@ -1,0 +1,560 @@
+module Base
+{
+	sound CaseyjoGrunt
+	{
+		category = Player,
+		is3D = true,
+		loop = false,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_01.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_02.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_03.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_04.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_05.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_06.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_07.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_08.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_09.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_10.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_11.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_12.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_13.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_14.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_15.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_16.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_17.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_18.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_19.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_20.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_21.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_22.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_23.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_24.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_25.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_26.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_27.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_28.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_29.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_30.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_31.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_32.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_33.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_34.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_35.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_36.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_37.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_38.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_39.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_40.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_41.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_42.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_43.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_44.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_45.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_46.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_47.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_48.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_49.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_50.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_51.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_52.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_53.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_54.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Grunt_Tone_High_55.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+	}
+}

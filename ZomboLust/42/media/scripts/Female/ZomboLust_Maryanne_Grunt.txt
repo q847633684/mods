@@ -1,0 +1,190 @@
+module Base
+{
+	sound MaryanneGrunt
+	{
+		category = Player,
+		is3D = true,
+		loop = false,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Grunt_Tone_Low_01.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Grunt_Tone_Low_02.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Grunt_Tone_Low_03.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Grunt_Tone_Low_04.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Grunt_Tone_Low_05.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Grunt_Tone_Low_06.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Grunt_Tone_Low_07.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Grunt_Tone_Low_08.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Grunt_Tone_Low_09.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Grunt_Tone_Low_10.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Grunt_Tone_Low_11.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Grunt_Tone_Low_12.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Grunt_Tone_Low_13.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Grunt_Tone_Low_14.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Grunt_Tone_Low_15.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Grunt_Tone_Low_16.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Grunt_Tone_Low_17.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Grunt_Tone_Low_18.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+	}
+}

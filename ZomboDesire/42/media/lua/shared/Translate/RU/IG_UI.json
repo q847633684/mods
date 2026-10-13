@@ -1,0 +1,8 @@
+{
+    "IGUI_ZomboDesire_MiniGame_Timeout": "Вы отказались говорить с зомби",
+    "IGUI_ZomboDesire_MiniGame_FailRed": "Зомби не хочет с вами говорить",
+    "IGUI_ZomboDesire_MiniGame_FailOrange": "Зомби не решается говорить с вами",
+    "IGUI_ZomboDesire_Halo_ItemLost": "Предмет утерян:",
+    "IGUI_ZomboDesire_Halo_ItemDamaged": "Предмет поврежден:",
+    "IGUI_ZomboDesire_Animation_Interrupted": "Что?!\nЭтот зараженный сдался?!\nУ меня есть шанс сбежать!"
+}

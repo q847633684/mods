@@ -1,0 +1,30 @@
+module Base
+{
+	sound CaseyjoMoanMildShort
+	{
+		category = Player,
+		is3D = true,
+		loop = false,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Moan_Mild_Tone_High_Short_01.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_High/Female_Moan_Mild_Tone_High_Short_02.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+	}
+}

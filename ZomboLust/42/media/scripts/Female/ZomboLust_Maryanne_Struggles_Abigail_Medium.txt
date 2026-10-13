@@ -1,0 +1,210 @@
+module Base
+{
+	sound MaryanneStrugglesAbigailMedium
+	{
+		category = Player,
+		is3D = true,
+		loop = false,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Medium_01.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Medium_02.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Medium_03.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Medium_04.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Medium_05.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Medium_06.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Medium_07.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Medium_08.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Medium_09.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Medium_10.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Medium_11.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Medium_12.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Medium_13.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Medium_14.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Medium_15.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Medium_16.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Medium_17.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Medium_18.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Medium_19.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Struggles_Abigail_Medium_20.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+	}
+}

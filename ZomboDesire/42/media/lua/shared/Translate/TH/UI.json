@@ -1,0 +1,11 @@
+{
+    "UI_options_ZomboDesire_animationTitle": "แอนิเมชัน : ",
+    "UI_options_ZomboDesire_stage2Multiplier": "ตัวคูณระยะเวลาแอนิเมชันส่วนกลาง",
+    "UI_options_ZomboDesire_stage2Multiplier_tooltip": "จำนวนครั้งที่แอนิเมชันส่วนกลางจะเล่นวนซ้ำ",
+    "UI_options_ZomboDesire_escapeTitle": "หนี : ",
+    "UI_options_ZomboDesire_escapeDuration": "ระยะเวลาหนี",
+    "UI_options_ZomboDesire_escapeDuration_tooltip": "ระยะเวลาการล่องหน (นาที) ยิ่งระยะเวลานานเท่าใด คุณก็จะล่องหนได้นานขึ้นเท่านั้น แต่ในทางกลับกัน มันจะดึงดูดซอมบี้มากขึ้นที่ตำแหน่งของคุณเมื่อสิ้นสุดการล่องหน",
+    "UI_options_ZomboDesire_multiplier_val": "%1x",
+    "UI_options_ZomboDesire_minute_val": "%1 นาที",
+    "UI_options_ZomboDesire_minutes_val": "%1 นาที"
+}

@@ -1,0 +1,13 @@
+{
+  "HEADER_Sandbox_EN_49powerWagon": "49\\u6b3e\\u9053\\u5947Power Wagon",
+  "HEADER_Sandbox_EN_80manKat1": "80\\u6b3e\\u66fc\\u6069KAT1",
+  "HEADER_Sandbox_EN_97bushmaster": "97\\u6b3eADI\\u5927\\u6bd2\\u86c7",
+  "HEADER_Sandbox_EN_damnlib": "KI5\\u8f7d\\u5177",
+  "Sandbox_DAMN_AllowBushmasterSpawns": "\\u542f\\u7528\\u9884\\u8bbe97\\u6b3eADI\\u5927\\u6bd2\\u86c7\\u751f\\u6210",
+  "Sandbox_DAMN_AllowManlyMANSpawns": "\\u542f\\u7528\\u9884\\u8bbe80\\u6b3e\\u66fc\\u6069KAT1\\u751f\\u6210",
+  "Sandbox_DAMN_AllowPowerChadSpawns": "\\u542f\\u7528\\u9884\\u8bbe49\\u6b3e\\u9053\\u5947Power Wagon\\u751f\\u6210",
+  "Sandbox_DAMN_AllowVanillaVehicleDismantling": "\\u542f\\u7528\\u539f\\u7248\\u8f66\\u8f86\\u90e8\\u4ef6\\u56de\\u6536",
+  "Sandbox_DAMN_AllowVanillaWorldItemDismantling": "\\u542f\\u7528\\u623f\\u5c4b\\u7a97\\u6237\\u548c\\u955c\\u5b50\\u56de\\u6536",
+  "Sandbox_DAMN_Options": "KI5\\u8f7d\\u5177\\u8bbe\\u7f6e",
+  "Sandbox_DAMN_Spawns": "KI5\\u786e\\u4fdd\\u751f\\u6210"
+}

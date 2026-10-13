@@ -1,0 +1,50 @@
+module Base
+{
+	sound CaseyjoLaughShort
+	{
+		category = Player,
+		is3D = true,
+		loop = false,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Laugh_Short_01.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Laugh_Short_02.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Laugh_Short_03.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Laugh_Short_04.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.17,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+	}
+}

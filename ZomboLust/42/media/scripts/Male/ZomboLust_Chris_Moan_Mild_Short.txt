@@ -1,0 +1,260 @@
+module Base
+{
+	sound ChrisMoanMildShort
+	{
+		category = Player,
+		is3D = true,
+		loop = false,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Inter/Male_Moan_Mild_Tone_Inter_Short_01.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Inter/Male_Moan_Mild_Tone_Inter_Short_02.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Inter/Male_Moan_Mild_Tone_Inter_Short_03.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Inter/Male_Moan_Mild_Tone_Inter_Short_04.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Inter/Male_Moan_Mild_Tone_Inter_Short_05.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Inter/Male_Moan_Mild_Tone_Inter_Short_06.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Inter/Male_Moan_Mild_Tone_Inter_Short_07.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Inter/Male_Moan_Mild_Tone_Inter_Short_08.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Inter/Male_Moan_Mild_Tone_Inter_Short_09.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Inter/Male_Moan_Mild_Tone_Inter_Short_10.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Inter/Male_Moan_Mild_Tone_Inter_Short_11.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Inter/Male_Moan_Mild_Tone_Inter_Short_12.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Inter/Male_Moan_Mild_Tone_Inter_Short_13.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Inter/Male_Moan_Mild_Tone_Inter_Short_14.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Inter/Male_Moan_Mild_Tone_Inter_Short_15.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Inter/Male_Moan_Mild_Tone_Inter_Short_16.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Inter/Male_Moan_Mild_Tone_Inter_Short_17.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Inter/Male_Moan_Mild_Tone_Inter_Short_18.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Inter/Male_Moan_Mild_Tone_Inter_Short_19.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Inter/Male_Moan_Mild_Tone_Inter_Short_20.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Inter/Male_Moan_Mild_Tone_Inter_Short_21.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Inter/Male_Moan_Mild_Tone_Inter_Short_22.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Inter/Male_Moan_Mild_Tone_Inter_Short_23.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Inter/Male_Moan_Mild_Tone_Inter_Short_24.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Inter/Male_Moan_Mild_Tone_Inter_Short_25.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+	}
+}

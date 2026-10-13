@@ -1,0 +1,850 @@
+module Base
+{
+	sound KateMoanHotLong
+	{
+		category = Player,
+		is3D = true,
+		loop = false,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_01.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_02.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_03.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_04.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_05.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_06.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_07.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_08.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_09.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_10.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_11.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_12.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_13.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_14.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_15.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_16.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_17.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_18.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_19.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_20.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_21.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_22.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_23.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_24.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_25.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_26.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_27.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_28.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_29.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_30.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_31.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_32.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_33.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_34.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_35.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_36.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_37.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_38.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_39.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_40.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_41.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_42.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_43.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_44.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_45.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_46.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_47.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_48.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_49.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_50.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_51.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_52.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_53.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_54.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_55.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_56.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_57.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_58.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_59.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_60.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_61.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_62.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_63.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_64.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_65.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_66.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_67.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_68.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_69.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_70.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_71.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_72.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_73.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_74.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_75.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_76.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_77.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_78.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_79.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_80.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_81.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_82.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_83.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Low/Female_Moan_Hot_Tone_Low_Long_84.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+	}
+}

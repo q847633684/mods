@@ -1,0 +1,14 @@
+{
+    "IGUI_ZLLewdModels_BGColor": "สีพื้นหลัง",
+    "IGUI_ZLLewdModels_Apply": "ตกลง",
+    "IGUI_ZLLewdModels_Camera": "กล้อง",
+    "IGUI_ZLLewdModels_Alpha": "ความโปร่งใส",
+    "IGUI_ZLLewdModels_Tab_View": "มุมมอง",
+    "IGUI_ZLLewdModels_Tab_Settings": "ตั้งค่า",
+    "IGUI_ZLLewdModels_Context_LookAtMirror": "ส่องกระจก",
+    "IGUI_anim_Aim": "เล็ง",
+    "IGUI_ZLLewdModels_Help_Title": "การควบคุมกระจก",
+    "IGUI_ZLLewdModels_Help_Zoom": "- ลูกกลิ้งเมาส์: ซูมเข้า/ออก",
+    "IGUI_ZLLewdModels_Help_Pan": "- คลิกซ้าย + ลาก: หมุนและแพนแนวตั้ง",
+    "IGUI_ZLLewdModels_Help_Reset": "- คลิกขวา: รีเซ็ตมุมมอง"
+}

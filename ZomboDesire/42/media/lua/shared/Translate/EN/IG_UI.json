@@ -1,0 +1,9 @@
+{
+    "IGUI_ZomboDesire_MiniGame_Success": "Hello!",
+    "IGUI_ZomboDesire_MiniGame_Timeout": "I refused to talk to the zombie",
+    "IGUI_ZomboDesire_MiniGame_FailOrange": "The zombie doesn't want to talk to me",
+    "IGUI_ZomboDesire_MiniGame_FailGreen": "The zombie is reluctant to talk to me",
+    "IGUI_ZomboDesire_Halo_ItemLost": "Item lost:",
+    "IGUI_ZomboDesire_Halo_ItemDamaged": "Item damaged:",
+    "IGUI_ZomboDesire_Animation_Interrupted": "What?!\nThis infected gave up?!\nI have a chance to flee!"
+}

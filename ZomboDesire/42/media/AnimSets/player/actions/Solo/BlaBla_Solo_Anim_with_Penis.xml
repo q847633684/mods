@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animNode>
+	<m_Name>BlaBla_Solo_Anim_with_Penis</m_Name>
+	<m_Priority></m_Priority>
+	<m_AnimName>Bob_BlaBla_Solo_Anim_with_Penis</m_AnimName>
+	<m_deferredBoneAxis>Y</m_deferredBoneAxis>
+	<m_Looped>false</m_Looped>
+	<m_BlendTime>0.5</m_BlendTime>
+	<m_BlendOutTime>0.5</m_BlendOutTime>
+	<m_SpeedScale>1.0</m_SpeedScale>
+	<m_EarlyTransitionOut>false</m_EarlyTransitionOut>
+	<m_SyncTrackingEnabled>true</m_SyncTrackingEnabled>
+	<m_Conditions>
+		<m_Name>PerformingAction</m_Name>
+		<m_Type>STRING</m_Type>
+		<m_StringValue>BlaBla_Solo_Anim_with_Penis</m_StringValue>
+	</m_Conditions>
+	<m_SubStateBoneWeights>
+		<boneName>Dummy01</boneName>
+		<weight>1.0</weight>
+	</m_SubStateBoneWeights>
+	<m_SubStateBoneWeights>
+		<boneName>Translation_Data</boneName>
+		<weight>1.0</weight>
+	</m_SubStateBoneWeights>
+</animNode>

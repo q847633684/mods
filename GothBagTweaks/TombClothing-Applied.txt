@@ -1,0 +1,178 @@
+Tomb Wardrobe Local Patches - clothing changes (172 items)
+generated: 2026-10-13 09:37:27   variant=VANILLA   IncludeBulletDefense=True  LockHolesOnDefenseItems=True  CatsuitFamilyFullTemplate=True
+100% defence items (harness/underwear): 27    catsuit family (template): 9    overridden values: 87
+
+ID	分类	参数(覆盖的标注原值)
+-----
+Turtleneck	连衣裙	CanHaveHoles = true
+Turtleneck_Multi	连衣裙	CanHaveHoles = true
+Dress_Goth_Long	连衣裙	CanHaveHoles = true
+Dress_Goth	连衣裙	CanHaveHoles = true
+Jeans_Regular	裤装	CanHaveHoles = true ; ConditionMax = 24 ; ConditionLowerChanceOneIn = 12
+Jeans_RegularRipped	裤装	CanHaveHoles = true ; ConditionMax = 24 ; ConditionLowerChanceOneIn = 12
+Jeans_Lowcut	裤装	CanHaveHoles = true ; ConditionMax = 24 ; ConditionLowerChanceOneIn = 12
+Jeans_LowcutRipped	裤装	CanHaveHoles = true ; ConditionMax = 24 ; ConditionLowerChanceOneIn = 12
+Jeans_Highcut	裤装	CanHaveHoles = true ; ConditionMax = 24 ; ConditionLowerChanceOneIn = 12
+Jeans_HighcutRipped	裤装	CanHaveHoles = true ; ConditionMax = 24 ; ConditionLowerChanceOneIn = 12
+GothJeans_Regular	裤装	CanHaveHoles = true ; ConditionMax = 24 ; ConditionLowerChanceOneIn = 12
+GothJeans_Highcut	裤装	CanHaveHoles = true ; ConditionMax = 24 ; ConditionLowerChanceOneIn = 12
+GothJeans_Lowcut	裤装	CanHaveHoles = true ; ConditionMax = 24 ; ConditionLowerChanceOneIn = 12
+Microshorts	短裤	CanHaveHoles = true
+Minishorts	短裤	CanHaveHoles = true
+Highshorts	短裤	CanHaveHoles = true
+GothMicroshorts	短裤	CanHaveHoles = true
+GothMinishorts	短裤	CanHaveHoles = true
+GothHighshorts	短裤	CanHaveHoles = true
+LeatherPantsTight	裤装	CanHaveHoles = true ; ConditionMax = 24 ; ConditionLowerChanceOneIn = 12 ; WaterResistance = 0.35
+LeatherPants	裤装	CanHaveHoles = true ; ConditionMax = 24 ; ConditionLowerChanceOneIn = 12 ; WaterResistance = 0.35
+LeatherPantsTucked	裤装	CanHaveHoles = true ; ConditionMax = 24 ; ConditionLowerChanceOneIn = 12 ; WaterResistance = 0.35
+TacPantsTight	裤装	CanHaveHoles = true ; ConditionMax = 24 ; ConditionLowerChanceOneIn = 12
+TacPants	裤装	CanHaveHoles = true ; ConditionMax = 24 ; ConditionLowerChanceOneIn = 12
+TacPantsTucked	裤装	CanHaveHoles = true ; ConditionMax = 24 ; ConditionLowerChanceOneIn = 12
+LeatherHotPants	裤装	CanHaveHoles = true ; ConditionMax = 24 ; ConditionLowerChanceOneIn = 12 ; WaterResistance = 0.35
+Haltertop	上衣	Tags = base:ripclothingcotton ; CanHaveHoles = true
+Haltertop_Pentagram	上衣	Tags = base:ripclothingcotton ; CanHaveHoles = true
+MorpheusShades	眼镜	Tags = base:ripclothingcotton
+MorpheusShades_Prescription	眼镜	Tags = base:ripclothingcotton
+TerminatorShades	眼镜	Tags = base:isupperdisguise;base:ripclothingcotton  (原 base:isupperdisguise)
+TerminatorShades_Prescription	眼镜	Tags = base:isupperdisguise;base:ripclothingcotton  (原 base:isupperdisguise)
+ConnorShades	眼镜	Tags = base:isupperdisguise;base:ripclothingcotton  (原 base:isupperdisguise)
+ConnorShades_Prescription	眼镜	Tags = base:isupperdisguise;base:ripclothingcotton  (原 base:isupperdisguise)
+LegendShades	眼镜	Tags = base:isupperdisguise;base:ripclothingcotton  (原 base:isupperdisguise)
+LegendShades_Prescription	眼镜	Tags = base:isupperdisguise;base:ripclothingcotton  (原 base:isupperdisguise)
+LegendShades_Low	眼镜	Tags = base:isupperdisguise;base:ripclothingcotton  (原 base:isupperdisguise)
+LegendShades_Low_Prescription	眼镜	Tags = base:isupperdisguise;base:ripclothingcotton  (原 base:isupperdisguise)
+Shades	眼镜	Tags = base:isupperdisguise;base:ripclothingcotton  (原 base:isupperdisguise)
+Shades_Prescription	眼镜	Tags = base:isupperdisguise;base:ripclothingcotton  (原 base:isupperdisguise)
+SpikedShades	眼镜	Tags = base:isupperdisguise;base:ripclothingcotton  (原 base:isupperdisguise)
+SpikedShades_Prescription	眼镜	Tags = base:isupperdisguise;base:ripclothingcotton  (原 base:isupperdisguise)
+NeoShades	眼镜	Tags = base:isupperdisguise;base:ripclothingcotton  (原 base:isupperdisguise)
+NeoShades_Prescription	眼镜	Tags = base:isupperdisguise;base:ripclothingcotton  (原 base:isupperdisguise)
+Skullmask	头饰/面罩	Tags = base:ripclothingcotton
+Skullmask_Higgs	头饰/面罩	Tags = base:ripclothingcotton
+Facemask	头饰/面罩	Tags = base:ripclothingcotton
+Goth_Armbands	手套/臂套	ConditionMax = 20 ; ConditionLowerChanceOneIn = 10 ; WaterResistance = 0.35
+Tattered	上衣	CanHaveHoles = true
+WornTFull	上衣	CanHaveHoles = true
+WornTFull_Band	上衣	CanHaveHoles = true
+WornT	上衣	CanHaveHoles = true
+WornT_Band	上衣	CanHaveHoles = true
+WornTMini	上衣	CanHaveHoles = true
+WornTMini_Band	上衣	CanHaveHoles = true
+SkirtMini	裙子	CanHaveHoles = true
+Skirt_Micro	裙子	CanHaveHoles = true
+SpikedCollar	内衣/配饰	Tags = base:ripclothingcotton ; BloodLocation = Neck ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100
+SpikedWristR	内衣/配饰	Tags = base:ripclothingcotton
+SpikedWristL	内衣/配饰	Tags = base:ripclothingcotton
+SpikedWristBoth	内衣/配饰	Tags = base:ripclothingcotton
+SpikedCollarDouble	内衣/配饰	Tags = base:ripclothingcotton ; BloodLocation = Neck ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100
+SpikedWristDoubleR	内衣/配饰	Tags = base:ripclothingcotton
+SpikedWristDoubleL	内衣/配饰	Tags = base:ripclothingcotton
+SpikedWristDoubleBoth	内衣/配饰	Tags = base:ripclothingcotton
+SpikedGarterL	内衣/配饰	Tags = base:ripclothingcotton ; BloodLocation = UpperLeg_L ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100
+SpikedGarterR	内衣/配饰	Tags = base:ripclothingcotton ; BloodLocation = UpperLeg_R ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100
+SpikedGarterBoth	内衣/配饰	Tags = base:ripclothingcotton ; BloodLocation = LowerLeg_L;LowerLeg_R ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100 ; BodyLocation = base:underwearextra1  (原 base:underwearextra2)
+Bandana	头饰/面罩	Tags = base:isfirefuel;base:isfiretinder;base:ripclothingcotton  (原 base:isfirefuel;base:isfiretinder)
+Bandana_Short	头饰/面罩	Tags = base:isfirefuel;base:isfiretinder;base:ripclothingcotton  (原 base:isfirefuel;base:isfiretinder)
+LindaCap	头饰/面罩	Tags = base:isfirefuel;base:isfiretinder;base:ripclothingcotton  (原 base:isfirefuel;base:isfiretinder)
+LindaCap_Backwards	头饰/面罩	Tags = base:isfirefuel;base:isfiretinder;base:ripclothingcotton  (原 base:isfirefuel;base:isfiretinder)
+Shoes_Stiletto_Thigh	鞋靴	Tags = base:ripclothingleather
+Shoes_Stiletto_Boot	鞋靴	Tags = base:ripclothingleather
+Shoes_Stiletto_Ankle	鞋靴	Tags = base:ripclothingleather
+Shoes_Goth_Thigh	鞋靴	Tags = base:ripclothingleather
+Shoes_Goth_Boot	鞋靴	Tags = base:ripclothingleather
+Shoes_Goth_Ankle	鞋靴	Tags = base:ripclothingleather
+Shoes_Goth_AnkleOpen	鞋靴	Tags = base:ripclothingleather
+Shoes_Cowboy_Boot	鞋靴	Tags = base:ripclothingcotton
+Shoes_Cowboy_Ankle	鞋靴	Tags = base:ripclothingcotton
+Shoes_Biker	鞋靴	Tags = base:ripclothingleather
+Shoes_Regular_Stomper	鞋靴	Tags = base:ripclothingleather
+Shoes_Regular_Boot	鞋靴	Tags = base:ripclothingcotton
+Shoes_Regular_Ankle	鞋靴	Tags = base:ripclothingcotton
+Shoes_Regular_AnkleOpen	鞋靴	Tags = base:ripclothingcotton
+Shoes_Military_Boot	鞋靴	Tags = base:ripclothingcotton
+Shoes_Military_Ankle	鞋靴	Tags = base:ripclothingcotton
+Shoes_Military_AnkleOpen	鞋靴	Tags = base:ripclothingcotton
+Shoes_Squaretoe_Thigh	鞋靴	Tags = base:ripclothingleather
+Shoes_Squaretoe_Boot	鞋靴	Tags = base:ripclothingleather
+Shoes_Squaretoe_Ankle	鞋靴	Tags = base:ripclothingleather
+LeatherJacket	外套/大衣	CanHaveHoles = true ; ConditionMax = 30 ; ConditionLowerChanceOneIn = 20 ; DiscomfortModifier = 0.05
+LeatherJacket_S	外套/大衣	CanHaveHoles = true ; ConditionMax = 30 ; ConditionLowerChanceOneIn = 20 ; DiscomfortModifier = 0.05
+LeatherJacket_Open	外套/大衣	CanHaveHoles = true ; ConditionMax = 30 ; ConditionLowerChanceOneIn = 20 ; DiscomfortModifier = 0.05
+LeatherJacket_Open_S	外套/大衣	CanHaveHoles = true ; ConditionMax = 30 ; ConditionLowerChanceOneIn = 20 ; DiscomfortModifier = 0.05
+LeatherJacketCropped	外套/大衣	CanHaveHoles = true ; ConditionMax = 30 ; ConditionLowerChanceOneIn = 20 ; DiscomfortModifier = 0.05
+LeatherJacketCropped_S	外套/大衣	CanHaveHoles = true ; ConditionMax = 30 ; ConditionLowerChanceOneIn = 20 ; DiscomfortModifier = 0.05
+LeatherJacketCropped_Open	外套/大衣	CanHaveHoles = true ; ConditionMax = 30 ; ConditionLowerChanceOneIn = 20 ; DiscomfortModifier = 0.05
+LeatherJacketCropped_Open_S	外套/大衣	CanHaveHoles = true ; ConditionMax = 30 ; ConditionLowerChanceOneIn = 20 ; DiscomfortModifier = 0.05
+LeatherJacket_WideCollar	外套/大衣	CanHaveHoles = true ; ConditionMax = 30 ; ConditionLowerChanceOneIn = 20 ; DiscomfortModifier = 0.05
+LeatherJacket_WideCollar_Open	外套/大衣	CanHaveHoles = true ; ConditionMax = 30 ; ConditionLowerChanceOneIn = 20 ; DiscomfortModifier = 0.05
+LeatherJacket_Winter	外套/大衣	CanHaveHoles = true ; ConditionMax = 30 ; ConditionLowerChanceOneIn = 20 ; DiscomfortModifier = 0.05
+LeatherJacket_Winter_Open	外套/大衣	CanHaveHoles = true ; ConditionMax = 30 ; ConditionLowerChanceOneIn = 20 ; DiscomfortModifier = 0.05
+Jacket_Winter	外套/大衣	CanHaveHoles = true ; ConditionMax = 30 ; ConditionLowerChanceOneIn = 20 ; DiscomfortModifier = 0.05
+Jacket_Winter_Open	外套/大衣	CanHaveHoles = true ; ConditionMax = 30 ; ConditionLowerChanceOneIn = 20 ; DiscomfortModifier = 0.05
+Trenchcoat_L	外套/大衣	CanHaveHoles = true ; ConditionMax = 30 ; ConditionLowerChanceOneIn = 20 ; DiscomfortModifier = 0.05
+Trenchcoat_L_Open	外套/大衣	CanHaveHoles = true ; ConditionMax = 30 ; ConditionLowerChanceOneIn = 20 ; DiscomfortModifier = 0.05
+Trenchcoat_F	外套/大衣	CanHaveHoles = true ; ConditionMax = 30 ; ConditionLowerChanceOneIn = 20 ; DiscomfortModifier = 0.05
+Trenchcoat_F_Open	外套/大衣	CanHaveHoles = true ; ConditionMax = 30 ; ConditionLowerChanceOneIn = 20 ; DiscomfortModifier = 0.05
+Trenchcoat2_L	外套/大衣	CanHaveHoles = true ; ConditionMax = 30 ; ConditionLowerChanceOneIn = 20 ; DiscomfortModifier = 0.05
+Trenchcoat2_L_Open	外套/大衣	CanHaveHoles = true ; ConditionMax = 30 ; ConditionLowerChanceOneIn = 20 ; DiscomfortModifier = 0.05
+Trenchcoat2_F	外套/大衣	CanHaveHoles = true ; ConditionMax = 30 ; ConditionLowerChanceOneIn = 20 ; DiscomfortModifier = 0.05
+Trenchcoat2_F_Open	外套/大衣	CanHaveHoles = true ; ConditionMax = 30 ; ConditionLowerChanceOneIn = 20 ; DiscomfortModifier = 0.05
+Pasties	内衣/配饰	Tags = base:isfirefuel;base:isfiretinder;base:ripclothingcotton  (原 base:isfirefuel;base:isfiretinder) ; BloodLocation = UpperBody ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100
+Gstring	内衣/配饰	Tags = base:ripclothingcotton ; BloodLocation = Groin ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100
+GstringBra	内衣/配饰	Tags = base:ripclothingcotton ; BloodLocation = UpperBody ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100
+GstringBlack	内衣/配饰	Tags = base:ripclothingcotton ; BloodLocation = Groin ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100
+GstringBraBlack	内衣/配饰	Tags = base:ripclothingcotton ; BloodLocation = UpperBody ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100
+LeatherBra	内衣/配饰	Tags = base:ripclothingleather ; FabricType = Leather ; BloodLocation = UpperBody ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100
+LeatherUnderwear	内衣/配饰	Tags = base:ripclothingleather ; FabricType = Leather ; BloodLocation = Groin ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100
+StdBra	内衣/配饰	Tags = base:ripclothingcotton ; BloodLocation = UpperBody ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100
+StdUnderwear	内衣/配饰	Tags = base:ripclothingcotton ; BloodLocation = Groin ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100
+GothHarness	束具	Tags = base:ripclothingleather ; FabricType = Leather ; WaterResistance = 0.35 ; BloodLocation = UpperBody ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100
+GothHarness_Over	束具	Tags = base:ripclothingleather ; FabricType = Leather ; WaterResistance = 0.35 ; BloodLocation = UpperBody ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100
+GothLegHarness	束具	Tags = base:ripclothingleather ; FabricType = Leather ; WaterResistance = 0.35 ; BloodLocation = UpperLeg_L;UpperLeg_R ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100
+GothLegHarness_Over	束具	Tags = base:ripclothingleather ; FabricType = Leather ; WaterResistance = 0.35 ; BloodLocation = UpperLeg_L;UpperLeg_R ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100
+BigBelt	内衣/配饰	Tags = base:hasmetal;base:buckle;base:scrapasbelt;base:ripclothingleather  (原 base:hasmetal;base:buckle;base:scrapasbelt)
+Corset_Regular	束腰	Tags = base:ripclothingleather ; CanHaveHoles = true ; ConditionMax = 20 ; ConditionLowerChanceOneIn = 10 ; WaterResistance = 0.35
+Corset_Underbust	束腰	Tags = base:ripclothingleather ; CanHaveHoles = true ; ConditionMax = 20 ; ConditionLowerChanceOneIn = 10 ; WaterResistance = 0.35
+LeatherTank	上衣	Tags = base:ripclothingleather ; CanHaveHoles = true
+Tank	上衣	Tags = base:ripclothingcotton ; CanHaveHoles = true
+Tank_Multi	上衣	Tags = base:ripclothingcotton ; CanHaveHoles = true
+GothGloves	手套/臂套	Tags = base:ripclothingleather ; FabricType = Leather ; CanHaveHoles = true ; ConditionMax = 20 ; ConditionLowerChanceOneIn = 10 ; WaterResistance = 0.35
+GothGloves_Spiked	手套/臂套	Tags = base:ripclothingleather ; FabricType = Leather ; CanHaveHoles = true ; ConditionMax = 20 ; ConditionLowerChanceOneIn = 10 ; WaterResistance = 0.35
+Ducttape_Gloves	手套/臂套	Tags = base:ripclothingleather ; FabricType = Leather ; CanHaveHoles = true ; ConditionMax = 20 ; ConditionLowerChanceOneIn = 10 ; WaterResistance = 0.35
+SwordEarrings	内衣/配饰	Tags = base:ripclothingcotton
+SwordNecklace	内衣/配饰	Tags = base:hasmetal;base:tinysilverscrap;base:ripclothingcotton  (原 base:hasmetal;base:tinysilverscrap)
+DravenNecklace	内衣/配饰	Tags = base:hasmetal;base:tinygoldscrap;base:ripclothingcotton  (原 base:hasmetal;base:tinygoldscrap)
+LeatherBandeau	上衣	CanHaveHoles = true
+LeatherBandeauSmall	上衣	CanHaveHoles = true
+Tights_60D	内衣/配饰	Tags = base:isfirefuel;base:isfiretinder;base:ripclothingcotton  (原 base:isfirefuel;base:isfiretinder) ; BloodLocation = Trousers ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100 ; CanHaveHoles = false
+Tights_30D	内衣/配饰	Tags = base:isfirefuel;base:isfiretinder;base:ripclothingcotton  (原 base:isfirefuel;base:isfiretinder) ; BloodLocation = Trousers ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100 ; CanHaveHoles = false
+Tights_10D	内衣/配饰	Tags = base:isfirefuel;base:isfiretinder;base:ripclothingcotton  (原 base:isfirefuel;base:isfiretinder) ; BloodLocation = Trousers ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100 ; CanHaveHoles = false
+Tights_Ripped	内衣/配饰	Tags = base:isfirefuel;base:isfiretinder;base:ripclothingcotton  (原 base:isfirefuel;base:isfiretinder) ; BloodLocation = Trousers ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100 ; CanHaveHoles = false
+Tights_Zombie	内衣/配饰	Tags = base:isfirefuel;base:isfiretinder;base:ripclothingcotton  (原 base:isfirefuel;base:isfiretinder) ; BloodLocation = Trousers ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100 ; CanHaveHoles = false
+Stockings_60D	内衣/配饰	Tags = base:isfirefuel;base:isfiretinder;base:ripclothingcotton  (原 base:isfirefuel;base:isfiretinder) ; BloodLocation = LowerLeg_L;LowerLeg_R ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100 ; CanHaveHoles = false
+Stockings_30D	内衣/配饰	Tags = base:isfirefuel;base:isfiretinder;base:ripclothingcotton  (原 base:isfirefuel;base:isfiretinder) ; BloodLocation = LowerLeg_L;LowerLeg_R ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100 ; CanHaveHoles = false
+Stockings_10D	内衣/配饰	Tags = base:isfirefuel;base:isfiretinder;base:ripclothingcotton  (原 base:isfirefuel;base:isfiretinder) ; BloodLocation = LowerLeg_L;LowerLeg_R ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100 ; CanHaveHoles = false
+Suspenders	内衣/配饰	Tags = base:isfirefuel;base:isfiretinder;base:ripclothingcotton  (原 base:isfirefuel;base:isfiretinder) ; BloodLocation = UpperBody ; BiteDefense = 100 ; ScratchDefense = 100 ; BulletDefense = 100 ; CanHaveHoles = false
+Catsuit	全身连体衣	BiteDefense = 100  (原 10) ; ScratchDefense = 100  (原 20) ; BulletDefense = 100 ; Weight = 0.5  (原 1.4) ; RunSpeedModifier = 0.98 ; CombatSpeedModifier = 0.98 ; ConditionMax = 100 ; ConditionLowerChanceOneIn = 95 ; CanHaveHoles = false ; BloodLocation = Trousers;ShirtLongSleeves;Neck  (原 Trousers;ShirtLongSleeves) ; Insulation = 0.9  (原 0.6) ; WindResistance = 0.95  (原 0.6) ; WaterResistance = 0.95
+Catsuit_Open	全身连体衣	BiteDefense = 100  (原 10) ; ScratchDefense = 100  (原 20) ; BulletDefense = 100 ; Weight = 0.5  (原 1.4) ; RunSpeedModifier = 0.98 ; CombatSpeedModifier = 0.98 ; ConditionMax = 100 ; ConditionLowerChanceOneIn = 95 ; CanHaveHoles = false ; BloodLocation = Trousers;ShirtLongSleeves;Neck  (原 Trousers;ShirtLongSleeves) ; Insulation = 0.4  (原 0.5) ; WindResistance = 0.45  (原 0.4) ; WaterResistance = 0.95
+Catsuit_Open2	全身连体衣	BiteDefense = 100  (原 10) ; ScratchDefense = 100  (原 20) ; BulletDefense = 100 ; Weight = 0.5  (原 1.4) ; RunSpeedModifier = 0.98 ; CombatSpeedModifier = 0.98 ; ConditionMax = 100 ; ConditionLowerChanceOneIn = 95 ; CanHaveHoles = false ; BloodLocation = Trousers;ShirtLongSleeves;Neck  (原 Trousers;ShirtLongSleeves) ; Insulation = 0.15  (原 0.5) ; WindResistance = 0.2  (原 0.4) ; WaterResistance = 0.95
+Catsuit_Sleeveless	全身连体衣	BiteDefense = 100  (原 10) ; ScratchDefense = 100  (原 20) ; BulletDefense = 100 ; Weight = 0.5  (原 1.1) ; RunSpeedModifier = 0.98 ; CombatSpeedModifier = 0.98 ; ConditionMax = 100 ; ConditionLowerChanceOneIn = 95 ; CanHaveHoles = false ; Insulation = 0.9  (原 0.6) ; WindResistance = 0.95  (原 0.6) ; WaterResistance = 0.95
+Catsuit_Sleeveless_Open	全身连体衣	BiteDefense = 100  (原 10) ; ScratchDefense = 100  (原 20) ; BulletDefense = 100 ; Weight = 0.5  (原 1.1) ; RunSpeedModifier = 0.98 ; CombatSpeedModifier = 0.98 ; ConditionMax = 100 ; ConditionLowerChanceOneIn = 95 ; CanHaveHoles = false ; Insulation = 0.4  (原 0.5) ; WindResistance = 0.45  (原 0.4) ; WaterResistance = 0.95
+Catsuit_Sleeveless_Open2	全身连体衣	BiteDefense = 100  (原 10) ; ScratchDefense = 100  (原 20) ; BulletDefense = 100 ; Weight = 0.5  (原 1.1) ; RunSpeedModifier = 0.98 ; CombatSpeedModifier = 0.98 ; ConditionMax = 100 ; ConditionLowerChanceOneIn = 95 ; CanHaveHoles = false ; Insulation = 0.15  (原 0.5) ; WindResistance = 0.2  (原 0.4) ; WaterResistance = 0.95
+Bodysuit	全身连体衣	BiteDefense = 100  (原 10) ; ScratchDefense = 100  (原 20) ; BulletDefense = 100 ; Weight = 0.5  (原 0.8) ; RunSpeedModifier = 0.98 ; CombatSpeedModifier = 0.98 ; ConditionMax = 100 ; ConditionLowerChanceOneIn = 95 ; CanHaveHoles = false ; BloodLocation = Trousers;ShirtNoSleeves  (原 ShirtNoSleeves) ; Insulation = 0.9  (原 0.6) ; WindResistance = 0.95  (原 0.6) ; WaterResistance = 0.95
+Bodysuit_Open	全身连体衣	BiteDefense = 100  (原 10) ; ScratchDefense = 100  (原 20) ; BulletDefense = 100 ; Weight = 0.5  (原 0.8) ; RunSpeedModifier = 0.98 ; CombatSpeedModifier = 0.98 ; ConditionMax = 100 ; ConditionLowerChanceOneIn = 95 ; CanHaveHoles = false ; BloodLocation = Trousers;ShirtNoSleeves  (原 ShirtNoSleeves) ; Insulation = 0.4  (原 0.5) ; WindResistance = 0.45  (原 0.4) ; WaterResistance = 0.95
+Bodysuit_Open2	全身连体衣	BiteDefense = 100  (原 10) ; ScratchDefense = 100  (原 20) ; BulletDefense = 100 ; Weight = 0.5  (原 0.8) ; RunSpeedModifier = 0.98 ; CombatSpeedModifier = 0.98 ; ConditionMax = 100 ; ConditionLowerChanceOneIn = 95 ; CanHaveHoles = false ; BloodLocation = Trousers;ShirtNoSleeves  (原 ShirtNoSleeves) ; Insulation = 0.15  (原 0.5) ; WindResistance = 0.2  (原 0.4) ; WaterResistance = 0.95
+Hood	头饰/面罩	Tags = base:caneat;base:ripclothingleather  (原 base:caneat) ; FabricType = Leather ; WaterResistance = 0.35
+HoodDown	头饰/面罩	Tags = base:caneat;base:ripclothingleather  (原 base:caneat) ; FabricType = Leather ; WaterResistance = 0.35
+HoodSpiked	头饰/面罩	Tags = base:caneat;base:ripclothingleather  (原 base:caneat) ; FabricType = Leather ; WaterResistance = 0.35
+HoodDownSpiked	头饰/面罩	Tags = base:caneat;base:ripclothingleather  (原 base:caneat) ; FabricType = Leather ; WaterResistance = 0.35
+PleatedSkirt_HighWaist_Long	裙子	CanHaveHoles = true
+PleatedSkirt_HighWaist_Mid	裙子	CanHaveHoles = true
+PleatedSkirt_HighWaist_Short	裙子	CanHaveHoles = true
+PleatedSkirt_MidWaist_Long	裙子	CanHaveHoles = true
+PleatedSkirt_MidWaist_Mid	裙子	CanHaveHoles = true
+PleatedSkirt_MidWaist_Short	裙子	CanHaveHoles = true
+PleatedSkirt_LowWaist_Long	裙子	CanHaveHoles = true
+PleatedSkirt_LowWaist_Mid	裙子	CanHaveHoles = true
+PleatedSkirt_LowWaist_Short	裙子	CanHaveHoles = true

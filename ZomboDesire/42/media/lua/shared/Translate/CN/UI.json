@@ -1,0 +1,11 @@
+{
+    "UI_options_ZomboDesire_animationTitle": "动画 : ",
+    "UI_options_ZomboDesire_stage2Multiplier": "核心动画时长倍数",
+    "UI_options_ZomboDesire_stage2Multiplier_tooltip": "核心动画循环播放的次数。",
+    "UI_options_ZomboDesire_escapeTitle": "逃脱 : ",
+    "UI_options_ZomboDesire_escapeDuration": "逃脱持续时间",
+    "UI_options_ZomboDesire_escapeDuration_tooltip": "隐身时长（分钟）。持续时间越长，你隐身的时间就越长，但作为回报，在隐身结束时会吸引更多的僵尸到你的位置。",
+    "UI_options_ZomboDesire_multiplier_val": "%1x",
+    "UI_options_ZomboDesire_minute_val": "%1 分钟",
+    "UI_options_ZomboDesire_minutes_val": "%1 分钟"
+}

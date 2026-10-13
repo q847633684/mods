@@ -1,0 +1,130 @@
+module Base
+{
+	sound HankMoanHotLong
+	{
+		category = Player,
+		is3D = true,
+		loop = false,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Low/Male_Moan_Hot_Tone_Low_Long_01.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.95,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Low/Male_Moan_Hot_Tone_Low_Long_02.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.95,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Low/Male_Moan_Hot_Tone_Low_Long_03.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.95,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Low/Male_Moan_Hot_Tone_Low_Long_04.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.95,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Low/Male_Moan_Hot_Tone_Low_Long_05.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.95,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Low/Male_Moan_Hot_Tone_Low_Long_06.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.95,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Low/Male_Moan_Hot_Tone_Low_Long_07.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.95,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Low/Male_Moan_Hot_Tone_Low_Long_08.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.95,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Low/Male_Moan_Hot_Tone_Low_Long_09.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.95,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Low/Male_Moan_Hot_Tone_Low_Long_10.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.95,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Low/Male_Moan_Hot_Tone_Low_Long_11.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.95,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Tone_Low/Male_Moan_Hot_Tone_Low_Long_12.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.95,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+	}
+}

@@ -1,0 +1,8 @@
+{
+    "IGUI_ZomboDesire_MiniGame_Timeout": "ゾンビとの会話を拒否しました",
+    "IGUI_ZomboDesire_MiniGame_FailRed": "ゾンビはあなたと話したくないようです",
+    "IGUI_ZomboDesire_MiniGame_FailOrange": "ゾンビはあなたと話すのをためらっています",
+    "IGUI_ZomboDesire_Halo_ItemLost": "アイテム紛失:",
+    "IGUI_ZomboDesire_Halo_ItemDamaged": "アイテム破損:",
+    "IGUI_ZomboDesire_Animation_Interrupted": "何だと？！\nこの感染者が諦めただと？！\n逃げるチャンスだ！"
+}

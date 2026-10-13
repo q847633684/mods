@@ -1,0 +1,130 @@
+module Base
+{
+	sound BobGrunt
+	{
+		category = Player,
+		is3D = true,
+		loop = false,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Male_Grunt_01.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.00,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Male_Grunt_02.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.00,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Male_Grunt_03.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.00,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Male_Grunt_04.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.00,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Male_Grunt_05.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.00,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Male_Grunt_06.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.00,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Male_Grunt_07.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.00,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Male_Grunt_08.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.00,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Male_Grunt_09.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.00,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Male_Grunt_10.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.00,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Male_Grunt_11.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.00,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Male/Male_Grunt_12.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.00,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+	}
+}

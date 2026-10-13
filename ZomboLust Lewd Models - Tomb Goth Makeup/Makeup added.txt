@@ -1,0 +1,22 @@
+New makeup types added:
+
+Goth Black Eyeshadow
+Goth Red Eyeshadow
+Goth Crow Eyeshadow
+CyberGoth Pink Eyeshadow
+Goth Smeared Eyeshadow
+Goth Guyliner
+
+Goth Black Lipstick
+Goth Red Lipstick
+Goth Smeared Lipstick
+Goth Purple Lipstick
+Goth Green Lipstick
+Goth Crow Lipstick
+Goth Pink Lipstick
+Goth Faint Black Lipstick
+
+Corpsepaint Raven 
+Corpsepaint Stylised
+Corpsepaint Classic
+White foundation

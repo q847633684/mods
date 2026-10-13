@@ -1,0 +1,30 @@
+module Base
+{
+	sound JanineRapeScreamFinal
+	{
+		category = Player,
+		is3D = true,
+		loop = false,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Rape_Scream_Final_01.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Rape_Scream_Final_02.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+	}
+}

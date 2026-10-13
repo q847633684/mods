@@ -1,0 +1,163 @@
+module Base
+{
+    item Bukkake_Butt1
+    {
+        DisplayCategory = Appearance,
+        ItemType = base:clothing,
+        ClothingItem = ZomboLust_Bukkake_Butt1,
+        BodyLocation = ZomboLust:Bukkake_CenteredButt,
+        WorldRender = false,
+    }
+    item Bukkake_Butt2
+    {
+        DisplayCategory = Appearance,
+        ItemType = base:clothing,
+        ClothingItem = ZomboLust_Bukkake_Butt2,
+        BodyLocation = ZomboLust:Bukkake_CenteredButt,
+        WorldRender = false,
+    }
+    item Bukkake_Butt3
+    {
+        DisplayCategory = Appearance,
+        ItemType = base:clothing,
+        ClothingItem = ZomboLust_Bukkake_Butt3,
+        BodyLocation = ZomboLust:Bukkake_CenteredButt,
+        WorldRender = false,
+    }
+    item Bukkake_Butt4
+    {
+        DisplayCategory = Appearance,
+        ItemType = base:clothing,
+        ClothingItem = ZomboLust_Bukkake_Butt4,
+        BodyLocation = ZomboLust:Bukkake_CenteredButt,
+        WorldRender = false,
+    }
+    item Bukkake_Butt5
+    {
+        DisplayCategory = Appearance,
+        ItemType = base:clothing,
+        ClothingItem = ZomboLust_Bukkake_Butt5,
+        BodyLocation = ZomboLust:Bukkake_CenteredButt,
+        WorldRender = false,
+    }
+    item Bukkake_Butt6
+    {
+        DisplayCategory = Appearance,
+        ItemType = base:clothing,
+        ClothingItem = ZomboLust_Bukkake_Butt6,
+        BodyLocation = ZomboLust:Bukkake_CenteredButt,
+        WorldRender = false,
+    }
+    item Bukkake_Butt7
+    {
+        DisplayCategory = Appearance,
+        ItemType = base:clothing,
+        ClothingItem = ZomboLust_Bukkake_Butt7,
+        BodyLocation = ZomboLust:Bukkake_CenteredButt,
+        WorldRender = false,
+    }
+    item Bukkake_Butt8
+    {
+        DisplayCategory = Appearance,
+        ItemType = base:clothing,
+        ClothingItem = ZomboLust_Bukkake_Butt8,
+        BodyLocation = ZomboLust:Bukkake_CenteredButt,
+        WorldRender = false,
+    }
+    item Bukkake_Butt9
+    {
+        DisplayCategory = Appearance,
+        ItemType = base:clothing,
+        ClothingItem = ZomboLust_Bukkake_Butt9,
+        BodyLocation = ZomboLust:Bukkake_CenteredButt,
+        WorldRender = false,
+    }
+    item Bukkake_Butt10
+    {
+        DisplayCategory = Appearance,
+        ItemType = base:clothing,
+        ClothingItem = ZomboLust_Bukkake_Butt10,
+        BodyLocation = ZomboLust:Bukkake_CenteredButt,
+        WorldRender = false,
+    }
+    item Bukkake_Butt11
+    {
+        DisplayCategory = Appearance,
+        ItemType = base:clothing,
+        ClothingItem = ZomboLust_Bukkake_Butt11,
+        BodyLocation = ZomboLust:Bukkake_CenteredButt,
+        WorldRender = false,
+    }
+    item Bukkake_Butt12
+    {
+        DisplayCategory = Appearance,
+        ItemType = base:clothing,
+        ClothingItem = ZomboLust_Bukkake_Butt12,
+        BodyLocation = ZomboLust:Bukkake_CenteredButt,
+        WorldRender = false,
+    }
+    item Bukkake_Butt13
+    {
+        DisplayCategory = Appearance,
+        ItemType = base:clothing,
+        ClothingItem = ZomboLust_Bukkake_Butt13,
+        BodyLocation = ZomboLust:Bukkake_CenteredButt,
+        WorldRender = false,
+    }
+    item Bukkake_Butt14
+    {
+        DisplayCategory = Appearance,
+        ItemType = base:clothing,
+        ClothingItem = ZomboLust_Bukkake_Butt14,
+        BodyLocation = ZomboLust:Bukkake_CenteredButt,
+        WorldRender = false,
+    }
+    item Bukkake_Butt15
+    {
+        DisplayCategory = Appearance,
+        ItemType = base:clothing,
+        ClothingItem = ZomboLust_Bukkake_Butt15,
+        BodyLocation = ZomboLust:Bukkake_CenteredButt,
+        WorldRender = false,
+    }
+    item Bukkake_Butt16
+    {
+        DisplayCategory = Appearance,
+        ItemType = base:clothing,
+        ClothingItem = ZomboLust_Bukkake_Butt16,
+        BodyLocation = ZomboLust:Bukkake_CenteredButt,
+        WorldRender = false,
+    }
+    item Bukkake_Butt17
+    {
+        DisplayCategory = Appearance,
+        ItemType = base:clothing,
+        ClothingItem = ZomboLust_Bukkake_Butt17,
+        BodyLocation = ZomboLust:Bukkake_CenteredButt,
+        WorldRender = false,
+    }
+    item Bukkake_Butt18
+    {
+        DisplayCategory = Appearance,
+        ItemType = base:clothing,
+        ClothingItem = ZomboLust_Bukkake_Butt18,
+        BodyLocation = ZomboLust:Bukkake_CenteredButt,
+        WorldRender = false,
+    }
+    item Bukkake_Butt19
+    {
+        DisplayCategory = Appearance,
+        ItemType = base:clothing,
+        ClothingItem = ZomboLust_Bukkake_Butt19,
+        BodyLocation = ZomboLust:Bukkake_CenteredButt,
+        WorldRender = false,
+    }
+    item Bukkake_Butt20
+    {
+        DisplayCategory = Appearance,
+        ItemType = base:clothing,
+        ClothingItem = ZomboLust_Bukkake_Butt20,
+        BodyLocation = ZomboLust:Bukkake_CenteredButt,
+        WorldRender = false,
+    }
+}

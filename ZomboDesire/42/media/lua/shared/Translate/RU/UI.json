@@ -1,0 +1,11 @@
+{
+    "UI_options_ZomboDesire_animationTitle": "Анимации : ",
+    "UI_options_ZomboDesire_stage2Multiplier": "Множитель длительности центральной анимации",
+    "UI_options_ZomboDesire_stage2Multiplier_tooltip": "Количество циклов воспроизведения центральной анимации.",
+    "UI_options_ZomboDesire_escapeTitle": "Побег : ",
+    "UI_options_ZomboDesire_escapeDuration": "Длительность побега",
+    "UI_options_ZomboDesire_escapeDuration_tooltip": "Длительность невидимости (мин). Чем дольше длительность, тем дольше вы будете невидимы, но взамен это привлекает больше зомби на вашу позицию в конце невидимости.",
+    "UI_options_ZomboDesire_multiplier_val": "%1x",
+    "UI_options_ZomboDesire_minute_val": "%1 Минута",
+    "UI_options_ZomboDesire_minutes_val": "%1 Минуты"
+}

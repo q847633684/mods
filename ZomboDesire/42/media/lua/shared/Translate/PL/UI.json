@@ -1,0 +1,11 @@
+{
+    "UI_options_ZomboDesire_animationTitle": "Animacje : ",
+    "UI_options_ZomboDesire_stage2Multiplier": "Mnożnik czasu trwania animacji centralnej",
+    "UI_options_ZomboDesire_stage2Multiplier_tooltip": "Liczba powtórzeń animacji centralnej.",
+    "UI_options_ZomboDesire_escapeTitle": "Ucieczka : ",
+    "UI_options_ZomboDesire_escapeDuration": "Czas ucieczki",
+    "UI_options_ZomboDesire_escapeDuration_tooltip": "Czas niewidzialności (min). Im dłuższy czas trwania, tym dłużej pozostaniesz niewidzialny, ale w zamian przyciąga to więcej zombie w twojej lokalizacji pod koniec niewidzialności.",
+    "UI_options_ZomboDesire_multiplier_val": "%1x",
+    "UI_options_ZomboDesire_minute_val": "%1 Minuta",
+    "UI_options_ZomboDesire_minutes_val": "%1 Minut"
+}

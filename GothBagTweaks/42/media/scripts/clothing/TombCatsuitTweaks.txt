@@ -1,0 +1,113 @@
+module TombAlternative
+{
+    /* ============================================================================
+       Tomb Wardrobe Local Patches - full catsuit (全包衣) custom values.
+
+       These are the player's own edits to Tomb's Wardrobe - Alternative [VANILLA]
+       (Workshop 3616536783). Re-declared here so they survive a Steam update of
+       Tomb's mod: mod.info has require=TombWardrobeALTVanilla, so this file loads
+       AFTER Tomb's and replaces these three item scripts.
+
+       Copied verbatim from the version currently in
+       3616536783\mods\Tomb's Wardrobe - Alternative - Vanilla\42.20\media\scripts\clothing\tomb_clothingitems.txt
+       (lines 2659-2744). Differences vs Tomb's shipped values:
+         BiteDefense 10 -> 100, ScratchDefense 20 -> 100, BulletDefense added = 100
+         CoveredParts added (Neck;Torso;Back;LowerBody;Groin;arms;legs;Feet;Hands)
+         ConditionMax 100 / ConditionLowerChanceOneIn 95 added (1/95 chance to lose 1 point)
+         RunSpeedModifier + CombatSpeedModifier 0.98 added
+         BloodLocation + Neck, EquipSound EquipSatchel -> EquipLeather
+         Weight 1.5 -> 0.5, Insulation / WindResistance / WaterResistance retuned
+         Researchablerecipes = SewCatsuitFull added
+
+       The same values are re-applied from Lua (42/media/lua/server/GothBagTweaks.lua)
+       so a wrong load order cannot silently revert them. If you tweak numbers later,
+       change both files.
+       ============================================================================ */
+
+    item Catsuit_Full
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        Icon = Catsuit_1,
+        BloodLocation = Trousers;ShirtLongSleeves;Hands;Shoes;Neck,
+        BodyLocation = base:torso1legs1,
+        ClothingItem = Catsuit_Full,
+        ClothingItemExtra = Catsuit_Full_Open,
+        EquipSound = EquipLeather,
+        ClothingItemExtraOption = TWUnzip,
+        FabricType = Leather,
+        CoveredParts = Neck;Torso;Back;LowerBody;Groin;LeftArm;RightArm;LeftLeg;RightLeg;Feet;Hands,
+        BiteDefense = 100,
+        ScratchDefense = 100,
+        BulletDefense = 100,
+        Weight = 0.5,
+        Insulation = 0.9,
+        WindResistance = 0.95,
+        WaterResistance = 0.95,
+        RunSpeedModifier = 0.98,
+        CombatSpeedModifier = 0.98,
+        ConditionMax = 100,
+        ConditionLowerChanceOneIn = 95,
+        WorldStaticModel = Bodysuit_Ground,
+        Tags = base:ripclothingleather,
+        Researchablerecipes = SewCatsuitFull,
+    }
+
+    item Catsuit_Full_Open
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        Icon = Catsuit_1_O,
+        BloodLocation = Trousers;ShirtLongSleeves;Hands;Shoes;Neck,
+        BodyLocation = base:torso1legs1,
+        ClothingItem = Catsuit_Full_Open,
+        ClothingItemExtra = Catsuit_Full_Open2,
+        EquipSound = EquipLeather,
+        ClothingItemExtraOption = TWUnzip2,
+        FabricType = Leather,
+        CoveredParts = Neck;Torso;Back;LowerBody;Groin;LeftArm;RightArm;LeftLeg;RightLeg;Feet;Hands,
+        BiteDefense = 100,
+        ScratchDefense = 100,
+        BulletDefense = 100,
+        Weight = 0.5,
+        Insulation = 0.4,
+        WindResistance = 0.45,
+        WaterResistance = 0.95,
+        RunSpeedModifier = 0.98,
+        CombatSpeedModifier = 0.98,
+        ConditionMax = 100,
+        ConditionLowerChanceOneIn = 95,
+        WorldStaticModel = Bodysuit_Ground,
+        Tags = base:ripclothingleather,
+        Researchablerecipes = SewCatsuitFull,
+    }
+
+    item Catsuit_Full_Open2
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        Icon = Catsuit_1_O2,
+        BloodLocation = Trousers;ShirtLongSleeves;Hands;Shoes;Neck,
+        BodyLocation = base:torso1legs1,
+        ClothingItem = Catsuit_Full_Open2,
+        ClothingItemExtra = Catsuit_Full,
+        EquipSound = EquipLeather,
+        ClothingItemExtraOption = TWZip,
+        FabricType = Leather,
+        CoveredParts = Neck;Torso;Back;LowerBody;Groin;LeftArm;RightArm;LeftLeg;RightLeg;Feet;Hands,
+        BiteDefense = 100,
+        ScratchDefense = 100,
+        BulletDefense = 100,
+        Weight = 0.5,
+        Insulation = 0.15,
+        WindResistance = 0.2,
+        WaterResistance = 0.95,
+        RunSpeedModifier = 0.98,
+        CombatSpeedModifier = 0.98,
+        ConditionMax = 100,
+        ConditionLowerChanceOneIn = 95,
+        WorldStaticModel = Bodysuit_Ground,
+        Tags = base:ripclothingleather,
+        Researchablerecipes = SewCatsuitFull,
+    }
+}

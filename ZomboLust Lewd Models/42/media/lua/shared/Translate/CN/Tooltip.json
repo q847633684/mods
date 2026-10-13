@@ -1,0 +1,9 @@
+{
+  "Tooltip_Isometric": "等轴视角",
+  "Tooltip_Muscle": "切换 - 该角色显现肌肉线条",
+  "Tooltip_BodyHairGrowth": "切换 - 该角色自然生长体毛与毛茬",
+  "Tooltip_RequireRazor": "需要剃刀",
+  "Tooltip_NoBodyHair": "没有可修剪/修刮的体毛",
+  "Tooltip_item_AppearanceChanger": "手持这个斯派福（Spiffo）玩偶可获得修改外观的能力。请查看信息面板",
+  "Tooltip_item_AppearanceUnlocker": "手持这个小熊玩偶可解锁使用管理员锁定的自定义外观选项。"
+}

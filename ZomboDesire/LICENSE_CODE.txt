@@ -1,0 +1,87 @@
+© 2025-2026 BlaBla – Mod “ZomboDesire”
+Author : BlaBla012345 from LoversLab
+https://www.loverslab.com/topic/256864-project-zomboid-zombolust-zombodesire-framework
+
+Code licensed under a custom Source-Available, Non-Commercial license,
+based on the structure of PolyForm Noncommercial 1.0.0
+(https://polyformproject.org/licenses/noncommercial/1.0.0/), with additional restrictions described below.
+This is NOT an open-source license (OSI-approved sense) and does NOT permit commercial use or unauthorized extension.
+
+1. GRANT
+   BlaBla grants you a non-exclusive, worldwide, royalty-free license to use,
+   view, and modify this code SOLELY for personal, non-commercial use and for
+   ensuring compatibility with the ZomboDesire / ZomboLust framework.
+
+2. PROHIBITED USES
+   Without BlaBla's prior express written authorization, you may NOT:
+   a) Use this code, in whole or in part, to register, add, enable, or
+      distribute any animation, content, or feature (“Third-Party Content”)
+      through the ZomboDesire framework, ZomboLust, or any other mod created
+      by BlaBla that is directly or indirectly connected to them;
+   b) Sell, monetize, or solicit any form of payment or financial support
+      (including, without limitation, Patreon, Ko-Fi, PayPal, or any other
+      current or future crowdfunding, subscription, tipping, or payment
+      platform) in connection with Third-Party Content intended to be used
+      with, or made compatible with, this code;
+   c) Distribute a modified or derivative version of this code, whether
+      alone or bundled with Third-Party Content;
+   d) Remove or alter this notice, or misrepresent Third-Party Content as
+      officially authorized by BlaBla.
+
+3. NO IMPLIED RIGHTS
+   Nothing in this license shall be construed as granting rights to any
+   assets (models, textures, animations), which remain governed separately
+   by LICENSE_ASSETS.txt.
+
+4. VERSIONING
+   This license applies to this version and all subsequent versions.
+
+5. TERMINATION
+   Any use in violation of Section 2 automatically terminates your license
+   under this document, without prejudice to any other legal remedy
+   available to BlaBla.
+
+6. GRANT-BACK — INTEGRATION RIGHT OVER DERIVATIVE WORKS
+   Any person who creates, modifies, uses, or distributes a
+   "Derivative Work" — meaning any mod, patch, addon, plugin, script, or other work that either:
+     a) depends technically, directly or indirectly, on this code or on
+        any other current or future mod created by BlaBla ("Related
+        Mods"), including any Third-Party Content authorized under
+        Section 2(a); or
+     b) does not technically depend on this code but is presented as,
+        based on, or set within the continuity, lore, terminology,
+        systems, or branding established by BlaBla's Related Mods
+        ("Inspired Work"),
+   by that act automatically and irrevocably grants to BlaBla a
+   perpetual, worldwide, non-exclusive, royalty-free, transferable, and
+   sublicensable license to use, copy, reproduce, modify, adapt,
+   translate, incorporate, distribute, publicly display, and create
+   further derivative works from the original portions of that
+   Derivative Work, in whole or in part, for any purpose — including
+   incorporation into BlaBla's own official releases of ZomboDesire,
+   ZomboLust, or any other Related Mod — without requiring further
+   notice, permission, payment, or compensation to the creator of the
+   Derivative Work.
+
+   This license applies to Derivative Works regardless of when they were
+   created or published, including those that predate this clause and
+   those based on past versions of this code.
+
+   This grant is a license, not a transfer of ownership: it does not
+   make BlaBla the owner of the Derivative Work, and it does not by
+   itself deprive its creator of their own right to use, modify, or
+   distribute their own Derivative Work elsewhere, subject to the other
+   terms of this license (including Section 2).
+
+   As a matter of courtesy, and not as a legal obligation, BlaBla intends
+   — where reasonably practicable — to credit the creator of a Derivative
+   Work when substantial original portions of it are directly
+   incorporated into an official release. The absence of such credit
+   does not affect the validity of the license granted under this Section.
+
+GOVERNING LAW
+This license is governed by French law (droit d'auteur, Code de la
+propriété intellectuelle). In case of conflict between this English text
+and its legal effect, the interpretation most consistent with French law prevails.
+
+Redistribution prohibited without attribution and without complying with the terms above.

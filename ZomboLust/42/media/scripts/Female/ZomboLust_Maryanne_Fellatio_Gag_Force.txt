@@ -1,0 +1,150 @@
+module Base
+{
+	sound MaryanneFellatioGagForce
+	{
+		category = Player,
+		is3D = true,
+		loop = false,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Gag_Force_01.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Gag_Force_02.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Gag_Force_03.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Gag_Force_04.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Gag_Force_05.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Gag_Force_06.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Gag_Force_07.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Gag_Force_08.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Gag_Force_09.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Gag_Force_10.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Gag_Force_11.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Gag_Force_12.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Gag_Force_13.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Gag_Force_14.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.85,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+	}
+}

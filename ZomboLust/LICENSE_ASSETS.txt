@@ -1,0 +1,63 @@
+© 2025-2026 BlaBla – Mod “ZomboLust”
+Author : BlaBla012345 from LoversLab
+https://www.loverslab.com/topic/256864-project-zomboid-zombolust-zombodesire-framework
+
+Assets (models, textures, animations) licensed under CC-BY-NC-ND, with additional terms below.
+
+Licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International.
+See https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+ADDITIONAL TERMS
+
+1. SCOPE OF “NO DERIVATIVES”
+   For the avoidance of doubt, “No Derivatives” includes, without limitation,
+   creating new animations by modifying, extracting, rotoscoping, motion-tracing,
+   reverse-engineering, decompiling, or otherwise reconstructing all or part of
+   these Assets (current or future versions), regardless of the technique,
+   software, or file format used, and whether the resulting work is distributed
+   alone or combined with other content.
+
+2. NON-EXHAUSTIVE LIST OF PROHIBITED COMMERCIAL USES
+   “NonCommercial” includes, without limitation, any sale, paywall, or
+   solicitation of payment or financial support through Patreon, Ko-Fi, PayPal,
+   or any other current or future crowdfunding, subscription, tipping, or payment platform.
+
+3. GRANT-BACK — INTEGRATION RIGHT OVER DERIVATIVE ASSETS
+   Any person who creates, modifies, uses, or distributes a
+   “Derivative Asset” — meaning any model, texture, animation, or other asset that either:
+     a) is created from, adapted from, or made to be compatible with
+        these Assets or with any other current or future mod created by
+        BlaBla (“Related Mods”), whether or not such creation is
+        authorized under Section 1 above; or
+     b) is presented as, based on, or set within the continuity, lore,
+        terminology, systems, or branding established by BlaBla's
+        Related Mods (“Inspired Work”),
+   by that act automatically and irrevocably grants to BlaBla a
+   perpetual, worldwide, non-exclusive, royalty-free, transferable, and
+   sublicensable license to use, copy, reproduce, modify, adapt,
+   incorporate, distribute, publicly display, and create further
+   derivative works from the original portions of that Derivative Asset,
+   in whole or in part, for any purpose — including incorporation into
+   BlaBla's own official releases of ZomboDesire, ZomboLust, or any
+   other Related Mod — without requiring further notice, permission,
+   payment, or compensation to its creator.
+
+   This license applies to Derivative Assets regardless of when they
+   were created or published, including those that predate this clause.
+
+   This grant is a license, not a transfer of ownership, and does not by
+   itself deprive the creator of a Derivative Asset of their own right to
+   use it elsewhere, subject to the other terms of this license.
+
+   As a matter of courtesy, and not as a legal obligation, BlaBla intends
+   — where reasonably practicable — to credit the creator of a Derivative
+   Asset when substantial original portions of it are directly
+   incorporated into an official release. The absence of such credit
+   does not affect the validity of the license granted under this Section.
+
+GOVERNING LAW
+This license is governed by French law (droit d'auteur, Code de la
+propriété intellectuelle). In case of conflict between this English text
+and its legal effect, the interpretation most consistent with French law prevails.
+
+Redistribution prohibited without attribution.

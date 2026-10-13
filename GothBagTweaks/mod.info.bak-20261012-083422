@@ -1,0 +1,5 @@
+name=Tomb Wardrobe Local Patches (Goth Bag + Catsuit)
+id=GothBagTweaks
+author=local patch
+description=Goth backpack (Bag_Goth_Loose / _Tight): 1.5 L hydration bladder, CanHaveHoles, Legendary attachment slots. Full catsuit (Catsuit_Full / _Open / _Open2): custom defense, coverage and condition values. Keeps these edits alive across Steam updates of Tomb's Wardrobe - Alternative [VANILLA].
+require=TombWardrobeALTVanilla

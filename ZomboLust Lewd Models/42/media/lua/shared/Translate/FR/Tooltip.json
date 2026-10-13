@@ -1,0 +1,9 @@
+{
+  "Tooltip_Isometric": "Vue isométrique",
+  "Tooltip_Muscle": "Basculer - Les muscles apparaissent sur ce personnage",
+  "Tooltip_BodyHairGrowth": "Basculer - La pilosité et la barbe poussent sur ce personnage",
+  "Tooltip_RequireRazor": "Nécessite un rasoir",
+  "Tooltip_NoBodyHair": "Pas de poils à raser",
+  "Tooltip_item_AppearanceChanger": "Tenir ce Spiffo vous donne la capacité de changer votre apparence. Vérifiez votre panneau d'infos",
+  "Tooltip_item_AppearanceUnlocker": "Tenir cet ours vous donne accès aux options de personnalisation verrouillées par l'admin."
+}

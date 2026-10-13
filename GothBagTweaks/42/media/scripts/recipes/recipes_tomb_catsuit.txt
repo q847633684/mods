@@ -1,0 +1,26 @@
+module Base
+{
+    craftRecipe SewCatsuitFull
+    {
+        timedAction = SewingCloth,
+        time = 200,
+        xpAward = Tailoring:20,
+        AllowBatchCraft = false,
+        Tags = AnySurfaceCraft;InHandCraft,
+        category = Tailoring,
+        SkillRequired = Tailoring:3,
+        AutoLearnAll = Tailoring:3,
+        NeedToBeLearn = false,
+        inputs
+        {
+            item 1 tags[base:scissors;base:sharpknife] mode:keep flags[IsNotDull;MayDegradeLight],
+            item 1 tags[base:sewingneedle] mode:keep flags[MayDegradeLight],
+            item 8 [Base.LeatherStrips] mode:destroy,
+            item 3 tags[base:thread;base:twine],
+        }
+        outputs
+        {
+            item 1 TombAlternative.Catsuit_Full,
+        }
+    }
+}

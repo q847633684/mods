@@ -1,0 +1,65 @@
+-- File: ZomboDesire/42/media/lua/client/ZomboDesire/AnimationConfigs/00_script_exemple.lua (Must end with the .lua extension)
+-- Must be client-side otherwise they are loaded too early before ZomboDesire.registerAnimationConfig is registered
+-- @author BlaBla 2025
+-- Example animation configuration, to be placed in the AnimationConfigs folder
+
+require "ZomboDesire/ZomboDesire_Init" --- Always include this at the top to forceload ZomboDesire.registerAnimationConfig prior to this animation file
+
+-- Each file must call
+-- ZomboDesire.registerAnimationConfig(<name>, {<configuration table>})
+-- <name>		: required (string)
+--					logical key, internal name of the animation defined by the name of the .fbx file WITHOUT the prefix
+-- Classic fields :
+--	sprite		: optional (string)
+--					just for documentation or future preloading, corresponding to the sprite prefix (folder + base name)
+--	animName	: required (string)
+--					logical key, internal name of the animation defined by the name of the .fbx file WITHOUT the prefix
+--	tags		: required (string)
+--					determines the type of animation
+--	loop		: optional (boolean)
+--					Normally handled by XML files. true for looping animation, false otherwise. Default = nil
+--	soundEffect	: optional (string)
+--					Normally handled by XML files. name of the sound effect to play in parallel
+--	actors		: required (table)
+--					MANDATORY, at least 1 entry in actors
+-- <configuration table>
+--	character	: required (string)
+--					"Player" or "ZombHuman0" (handler will choose the one that works)
+--	stages		: required (table)
+--					MANDATORY, a list of stages to play in sequence
+--	perform		: required (string)
+--					exact name of an <m_AnimName> in XML. Also the name of the NlaTrack in Blender
+--					MUST be relative to gender = Bob_animation-name or Kate_animation-name
+--	duration	: required (number)
+--					duration in fps before moving on to the next stage
+
+Complete example:
+require "ZomboDesire/ZomboDesire_Init" --- Always include this at the top to forceload ZomboDesire.registerAnimationConfig prior to this animation file
+
+ZomboDesire.registerAnimationConfig("Interaction", {
+	sprite		= "Base",				-- sprite directory (media/textures/characters/Base)
+	animName	= "Interaction",		-- name of the animation
+	tags		= {"XXX", "XXX"},		-- animation type tags
+	loop		= false,				-- do not loop
+	soundEffect	= "NPC_Interaction",	-- playWorldSound après démarrage
+		actors = {
+		{
+			character = "Player", -- (if ZM0, "ZombHuman0" if ZF0)
+			stages = {
+				{
+					perform = "Kate_Interaction",	-- NlaTrack field name
+					duration = 100					-- animation duration based on frame count in Blender
+				}
+			}
+		},
+		{
+			character = "ZombHuman0", -- (if ZM0, "Player" if ZF0)
+			stages = {
+				{
+					perform = "Bob_Interaction",	-- NlaTrack field name
+					duration = 100					-- animation duration based on frame count in Blender
+				}
+			}
+		}
+	}
+})

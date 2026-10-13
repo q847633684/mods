@@ -1,0 +1,13 @@
+name=ZomboLust Lewd Models - Tomb Compatibility - Vanilla+
+id=ZomboLustLewdModelsTombCompat
+poster=ZLLewdModelsposter.png
+icon=ZLLewdModelslogo.png
+description=<RGB:1.0,1.0,1.0> ZomboLust Lewd Models - Tomb Customisation -  <RGB:0.99,0.73,0.34>  Edited by BlaBla <RGB:1.0,1.0,1.0> <LINE>
+description=Compatibility patch adjusting Vanilla clothing meshes (and any mods that reference them) as well as some specific mod meshes to better fit the body of ZomboLust Lewd Models <LINE> <LINE>
+description=Enable the mod, then in the Load Order place this below any mod that adds custom clothing and restart the game for it to take effect <LINE> <LINE>
+description=<RGB:0.91,0.65,0.18> Designed for Build 42 <RGB:1.0,1.0,1.0> <LINE>
+description=<RGB:0.11,0.78,0.98> For highly erotic custom models ! <RGB:1.0,1.0,1.0>
+authors=BlaBla
+version=0.1
+require=ZomboLustLewdModels
+url=https://www.loverslab.com/

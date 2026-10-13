@@ -1,0 +1,11 @@
+{
+    "UI_options_ZomboDesire_animationTitle": "Animações : ",
+    "UI_options_ZomboDesire_stage2Multiplier": "Multiplicador de duração da animação central",
+    "UI_options_ZomboDesire_stage2Multiplier_tooltip": "Número de vezes que a animação central será repetida.",
+    "UI_options_ZomboDesire_escapeTitle": "Fuga : ",
+    "UI_options_ZomboDesire_escapeDuration": "Duração da Fuga",
+    "UI_options_ZomboDesire_escapeDuration_tooltip": "Duração da invisibilidade (min). Quanto maior for a duração, mais tempo ficará invisível, mas em contrapartida atrai mais zombies na sua posição ao fim da invisibilidade.",
+    "UI_options_ZomboDesire_multiplier_val": "%1x",
+    "UI_options_ZomboDesire_minute_val": "%1 Minuto",
+    "UI_options_ZomboDesire_minutes_val": "%1 Minutos"
+}

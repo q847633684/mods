@@ -1,0 +1,568 @@
+module ZomboLust
+{
+    /* Profession Trait */
+
+    character_trait_definition ZomboLust:Dpress
+    {
+        IsProfessionTrait = true,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Dpress,
+        Cost = 0,
+        UIName = UI_trait_ZomboLust_Dpress,
+        UIDescription = UI_trait_ZomboLust_Dpress_Desc,
+        MutuallyExclusiveTraits = ZomboLust:Innocent,
+    }
+
+    character_trait_definition ZomboLust:Provocative
+    {
+        IsProfessionTrait = true,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Provocative,
+        Cost = 0,
+        UIName = UI_trait_ZomboLust_Provocative,
+        UIDescription = UI_trait_ZomboLust_Provocative_Desc,
+    }
+
+    character_trait_definition ZomboLust:TestSubject
+    {
+        IsProfessionTrait = true,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:TestSubject,
+        Cost = 0,
+        UIName = UI_trait_ZomboLust_TestSubject,
+        UIDescription = UI_trait_ZomboLust_TestSubject_Desc,
+    }
+
+    /* Trait */
+    /* Fornication */
+
+    character_trait_definition ZomboLust:AARP
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:AARP,
+        Cost = -5,
+        UIName = UI_trait_ZomboLust_AARP,
+        UIDescription = UI_trait_ZomboLust_AARP_Desc,
+        MutuallyExclusiveTraits = ZomboLust:YoungBuck;ZomboLust:InPrime;ZomboLust:LowEffort,
+    }
+
+    character_trait_definition ZomboLust:InPrime
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:InPrime,
+        Cost = -3,
+        UIName = UI_trait_ZomboLust_InPrime,
+        UIDescription = UI_trait_ZomboLust_InPrime_Desc,
+        MutuallyExclusiveTraits = ZomboLust:YoungBuck;ZomboLust:AARP;ZomboLust:LowEffort,
+    }
+
+    character_trait_definition ZomboLust:LowEffort
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:LowEffort,
+        Cost = 3,
+        UIName = UI_trait_ZomboLust_LowEffort,
+        UIDescription = UI_trait_ZomboLust_LowEffort_Desc,
+        MutuallyExclusiveTraits = ZomboLust:YoungBuck;ZomboLust:AARP;ZomboLust:InPrime,
+    }
+
+    character_trait_definition ZomboLust:SpunkDefault
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:SpunkDefault,
+        Cost = 0,
+        UIName = UI_trait_ZomboLust_SpunkDefault,
+        UIDescription = UI_trait_ZomboLust_SpunkDefault_Desc,
+    }
+
+    character_trait_definition ZomboLust:YoungBuck
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:YoungBuck,
+        Cost = 5,
+        UIName = UI_trait_ZomboLust_YoungBuck,
+        UIDescription = UI_trait_ZomboLust_YoungBuck_Desc,
+        MutuallyExclusiveTraits = ZomboLust:AARP;ZomboLust:InPrime;ZomboLust:LowEffort,
+    }
+
+    /* Disease */
+
+    character_trait_definition ZomboLust:Aids
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Aids,
+        Cost = 0,
+        UIName = UI_trait_ZomboLust_Aids,
+        UIDescription = UI_trait_ZomboLust_Aids_Desc,
+    }
+
+    character_trait_definition ZomboLust:Chlamydia
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Chlamydia,
+        Cost = 0,
+        UIName = UI_trait_ZomboLust_Chlamydia,
+        UIDescription = UI_trait_ZomboLust_Chlamydia_Desc,
+    }
+
+    character_trait_definition ZomboLust:Gonorrhea
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Gonorrhea,
+        Cost = 0,
+        UIName = UI_trait_ZomboLust_Gonorrhea,
+        UIDescription = UI_trait_ZomboLust_Gonorrhea_Desc,
+    }
+
+    character_trait_definition ZomboLust:Herpes
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Herpes,
+        Cost = 0,
+        UIName = UI_trait_ZomboLust_Herpes,
+        UIDescription = UI_trait_ZomboLust_Herpes_Desc,
+    }
+
+    character_trait_definition ZomboLust:Syphilis
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Syphilis,
+        Cost = 0,
+        UIName = UI_trait_ZomboLust_Syphilis,
+        UIDescription = UI_trait_ZomboLust_Syphilis_Desc,
+    }
+
+    /* Personality */
+
+    character_trait_definition ZomboLust:BaggyStyle
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:BaggyStyle,
+        Cost = -3,
+        UIName = UI_trait_ZomboLust_BaggyStyle,
+        UIDescription = UI_trait_ZomboLust_BaggyStyle_Desc,
+        MutuallyExclusiveTraits = ZomboLust:ButtonedUp,
+	}
+
+    character_trait_definition ZomboLust:ButtonedUp
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:ButtonedUp,
+        Cost = 3,
+        UIName = UI_trait_ZomboLust_ButtonedUp,
+        UIDescription = UI_trait_ZomboLust_ButtonedUp_Desc,
+        MutuallyExclusiveTraits = ZomboLust:BaggyStyle,
+    }
+
+    character_trait_definition ZomboLust:DrinkerHeavy
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:DrinkerHeavy,
+        Cost = 4,
+        UIName = UI_trait_ZomboLust_DrinkerHeavy,
+        UIDescription = UI_trait_ZomboLust_DrinkerHeavy_Desc,
+        MutuallyExclusiveTraits = ZomboLust:DrinkerNoob;ZomboLust:DrinkerLight,
+    }
+
+    character_trait_definition ZomboLust:DrinkerLight
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:DrinkerLight,
+        Cost = -2,
+        UIName = UI_trait_ZomboLust_DrinkerLight,
+        UIDescription = UI_trait_ZomboLust_DrinkerLight_Desc,
+        MutuallyExclusiveTraits = ZomboLust:DrinkerNoob;ZomboLust:DrinkerHeavy,
+    }
+
+    character_trait_definition ZomboLust:DrinkerNoob
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:DrinkerNoob,
+        Cost = -4,
+        UIName = UI_trait_ZomboLust_DrinkerNoob,
+        UIDescription = UI_trait_ZomboLust_DrinkerNoob_Desc,
+        MutuallyExclusiveTraits = ZomboLust:DrinkerLight;ZomboLust:DrinkerHeavy,
+    }
+
+    character_trait_definition ZomboLust:Dominate
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Dominate,
+        Cost = 5,
+        UIName = UI_trait_ZomboLust_Dominate,
+        UIDescription = UI_trait_ZomboLust_Dominate_Desc,
+        MutuallyExclusiveTraits = ZomboLust:Submissive;ZomboLust:Wimp,
+    }
+
+    character_trait_definition ZomboLust:Submissive
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Submissive,
+        Cost = -5,
+        UIName = UI_trait_ZomboLust_Submissive,
+        UIDescription = UI_trait_ZomboLust_Submissive_Desc,
+        MutuallyExclusiveTraits = ZomboLust:Dominate;ZomboLust:ItFollows,
+    }
+
+    character_trait_definition ZomboLust:Wimp
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Wimp,
+        Cost = 3,
+        UIName = UI_trait_ZomboLust_Wimp,
+        UIDescription = UI_trait_ZomboLust_Wimp_Desc,
+        MutuallyExclusiveTraits = ZomboLust:Dominate;ZomboLust:Lewd;ZomboLust:Nymphomaniac,
+    }
+
+    character_trait_definition ZomboLust:Innocent
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Innocent,
+        Cost = -5,
+        UIName = UI_trait_ZomboLust_Innocent,
+        UIDescription = UI_trait_ZomboLust_Innocent_Desc,
+        MutuallyExclusiveTraits = ZomboLust:Everydrop;ZomboLust:Lewd;ZomboLust:Nymphomaniac;ZomboLust:Sexaddict;ZomboLust:Succubus;ZomboLust:Rapist;ZomboLust:Promiscuous;ZomboLust:Swinger;ZomboLust:Dpress,
+    }
+
+    character_trait_definition ZomboLust:Lewd
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Lewd,
+        Cost = -4,
+        UIName = UI_trait_ZomboLust_Lewd,
+        UIDescription = UI_trait_ZomboLust_Lewd_Desc,
+        MutuallyExclusiveTraits = ZomboLust:Innocent;ZomboLust:Wimp,
+    }
+
+    character_trait_definition ZomboLust:Swinger
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Swinger,
+        Cost = 2,
+        UIName = UI_trait_ZomboLust_Swinger,
+        UIDescription = UI_trait_ZomboLust_Swinger_Desc,
+        MutuallyExclusiveTraits = ZomboLust:Innocent;ZomboLust:Promiscuous,
+    }
+
+    character_trait_definition ZomboLust:NoColdShowers
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:NoColdShowers,
+        Cost = 1,
+        UIName = UI_trait_ZomboLust_NoColdShowers,
+        UIDescription = UI_trait_ZomboLust_NoColdShowers_Desc,
+    }
+
+    character_trait_definition ZomboLust:Promiscuous
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Promiscuous,
+        Cost = -4,
+        UIName = UI_trait_ZomboLust_Promiscuous,
+        UIDescription = UI_trait_ZomboLust_Promiscuous_Desc,
+        MutuallyExclusiveTraits = ZomboLust:Innocent;ZomboLust:Swinger,
+    }
+
+    character_trait_definition ZomboLust:SmokesAfter
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:SmokesAfter,
+        Cost = 2,
+        UIName = UI_trait_ZomboLust_SmokesAfter,
+        UIDescription = UI_trait_ZomboLust_SmokesAfter_Desc,
+    }
+
+    character_trait_definition ZomboLust:Traumatized
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Traumatized,
+        Cost = 0,
+        UIName = UI_trait_ZomboLust_Traumatized,
+        UIDescription = UI_trait_ZomboLust_Traumatized_Desc,
+    }
+
+    /* Hard mode */
+
+    character_trait_definition ZomboLust:BetterAlive
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:BetterAlive,
+        Cost = -6,
+        UIName = UI_trait_ZomboLust_BetterAlive,
+        UIDescription = UI_trait_ZomboLust_BetterAlive_Desc,
+    }
+
+    character_trait_definition ZomboLust:ItFollows
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:ItFollows,
+        Cost = -8,
+        UIName = UI_trait_ZomboLust_ItFollows,
+        UIDescription = UI_trait_ZomboLust_ItFollows_Desc,
+        MutuallyExclusiveTraits = ZomboLust:Submissive,
+    }
+
+    character_trait_definition ZomboLust:ViciousZombies
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:ViciousZombies,
+        Cost = -5,
+        UIName = UI_trait_ZomboLust_ViciousZombies,
+        UIDescription = UI_trait_ZomboLust_ViciousZombies_Desc,
+    }
+
+    /* Ambiguous */
+
+    character_trait_definition ZomboLust:Cute
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Cute,
+        Cost = -1,
+        UIName = UI_trait_ZomboLust_Cute,
+        UIDescription = UI_trait_ZomboLust_Cute_Desc,
+        MutuallyExclusiveTraits = ZomboLust:Fugly,
+    }
+
+    character_trait_definition ZomboLust:Fugly
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Fugly,
+        Cost = 1,
+        UIName = UI_trait_ZomboLust_Fugly,
+        UIDescription = UI_trait_ZomboLust_Fugly_Desc,
+        MutuallyExclusiveTraits = ZomboLust:Cute,
+    }
+
+    /* Hygiene */
+
+    character_trait_definition ZomboLust:DislikesShowers
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:DislikesShowers,
+        Cost = -4,
+        UIName = UI_trait_ZomboLust_DislikesShowers,
+        UIDescription = UI_trait_ZomboLust_DislikesShowers_Desc,
+        MutuallyExclusiveTraits = ZomboLust:Unkempt;ZomboLust:NeatTidy;ZomboLust:LovesClean,
+    }
+
+    character_trait_definition ZomboLust:LovesClean
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:LovesClean,
+        Cost = 5,
+        UIName = UI_trait_ZomboLust_LovesClean,
+        UIDescription = UI_trait_ZomboLust_LovesClean_Desc,
+        MutuallyExclusiveTraits = ZomboLust:Unkempt;ZomboLust:DislikesShowers;ZomboLust:NeatTidy,
+    }
+
+    character_trait_definition ZomboLust:NeatTidy
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:NeatTidy,
+        Cost = 0,
+        UIName = UI_trait_ZomboLust_NeatTidy,
+        UIDescription = UI_trait_ZomboLust_NeatTidy_Desc,
+        MutuallyExclusiveTraits = ZomboLust:Unkempt;ZomboLust:DislikesShowers;ZomboLust:LovesClean,
+    }
+
+    character_trait_definition ZomboLust:Unkempt
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Unkempt,
+        Cost = -2,
+        UIName = UI_trait_ZomboLust_Unkempt,
+        UIDescription = UI_trait_ZomboLust_Unkempt_Desc,
+        MutuallyExclusiveTraits = ZomboLust:DislikesShowers;ZomboLust:NeatTidy;ZomboLust:LovesClean,
+    }
+
+    /* Special */
+
+    character_trait_definition ZomboLust:Everydrop
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Everydrop,
+        Cost = 3,
+        UIName = UI_trait_ZomboLust_Everydrop,
+        UIDescription = UI_trait_ZomboLust_Everydrop_Desc,
+        MutuallyExclusiveTraits = ZomboLust:Innocent;ZomboLust:Virgin,
+    }
+
+    character_trait_definition ZomboLust:Pacify
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Pacify,
+        Cost = 2,
+        UIName = UI_trait_ZomboLust_Pacify,
+        UIDescription = UI_trait_ZomboLust_Pacify_Desc,
+        MutuallyExclusiveTraits = ZomboLust:Succubus,
+    }
+
+    character_trait_definition ZomboLust:Succubus
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Succubus,
+        Cost = 3,
+        UIName = UI_trait_ZomboLust_Succubus,
+        UIDescription = UI_trait_ZomboLust_Succubus_Desc,
+        MutuallyExclusiveTraits = ZomboLust:Pacify;ZomboLust:Innocent,
+    }
+
+    character_trait_definition ZomboLust:Nymphomaniac
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Nymphomaniac,
+        Cost = -10,
+        UIName = UI_trait_ZomboLust_Nymphomaniac,
+        UIDescription = UI_trait_ZomboLust_Nymphomaniac_Desc,
+        MutuallyExclusiveTraits = ZomboLust:Virgin;ZomboLust:Inexperienced;ZomboLust:Experienced;ZomboLust:Innocent;ZomboLust:Wimp,
+    }
+
+    /* Experience */
+
+    character_trait_definition ZomboLust:Experienced
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Experienced,
+        Cost = 0,
+        UIName = UI_trait_ZomboLust_Experienced,
+        UIDescription = UI_trait_ZomboLust_Experienced_Desc,
+        MutuallyExclusiveTraits = ZomboLust:Virgin;ZomboLust:Inexperienced;ZomboLust:Nymphomaniac,
+    }
+
+    character_trait_definition ZomboLust:Inexperienced
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Inexperienced,
+        Cost = 0,
+        UIName = UI_trait_ZomboLust_Inexperienced,
+        UIDescription = UI_trait_ZomboLust_Inexperienced_Desc,
+        MutuallyExclusiveTraits = ZomboLust:Virgin;ZomboLust:Experienced;ZomboLust:Nymphomaniac,
+    }
+
+    character_trait_definition ZomboLust:Virgin
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Virgin,
+        Cost = 0,
+        UIName = UI_trait_ZomboLust_Virgin,
+        UIDescription = UI_trait_ZomboLust_Virgin_Desc,
+        MutuallyExclusiveTraits = ZomboLust:Inexperienced;ZomboLust:Experienced;ZomboLust:Nymphomaniac;ZomboLust:Everydrop,
+    }
+
+    /* Other */
+
+    character_trait_definition ZomboLust:Masochist
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Masochist,
+        Cost = 3,
+        UIName = UI_trait_ZomboLust_Masochist,
+        UIDescription = UI_trait_ZomboLust_Masochist_Desc,
+    }
+
+    character_trait_definition ZomboLust:Misandrist
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Misandrist,
+        Cost = -3,
+        UIName = UI_trait_ZomboLust_Misandrist,
+        UIDescription = UI_trait_ZomboLust_Misandrist_Desc,
+        MutuallyExclusiveTraits = ZomboLust:Misogynist,
+    }
+
+    character_trait_definition ZomboLust:Misogynist
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Misogynist,
+        Cost = -3,
+        UIName = UI_trait_ZomboLust_Misogynist,
+        UIDescription = UI_trait_ZomboLust_Misogynist_Desc,
+        MutuallyExclusiveTraits = ZomboLust:Misandrist,
+    }
+
+    character_trait_definition ZomboLust:Necrophiliac
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Necrophiliac,
+        Cost = 3,
+        UIName = UI_trait_ZomboLust_Necrophiliac,
+        UIDescription = UI_trait_ZomboLust_Necrophiliac_Desc,
+    }
+
+    character_trait_definition ZomboLust:Rapist
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Rapist,
+        Cost = 4,
+        UIName = UI_trait_ZomboLust_Rapist,
+        UIDescription = UI_trait_ZomboLust_Rapist_Desc,
+        MutuallyExclusiveTraits = ZomboLust:Innocent,
+    }
+
+    character_trait_definition ZomboLust:Sexaddict
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Sexaddict,
+        Cost = -4,
+        UIName = UI_trait_ZomboLust_Sexaddict,
+        UIDescription = UI_trait_ZomboLust_Sexaddict_Desc,
+        MutuallyExclusiveTraits = ZomboLust:Innocent,
+    }
+
+    character_trait_definition ZomboLust:Null
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = ZomboLust:Null,
+        Cost = 0,
+        UIName = UI_trait_ZomboLust_Null,
+        UIDescription = UI_trait_ZomboLust_Null_Desc,
+    }
+}

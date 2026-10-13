@@ -1,0 +1,13 @@
+{
+    "Sandbox_TWALT_GothStartKit": "開局贈送哥德風胸掛",
+    "Sandbox_TWALT_GothStartKit_tooltip": "GothBagTweaks: 新角色開局把哥德風胸掛放進背包；本選項出現之前建立的角色，讀檔時補發一次。總開關，關掉就一件都不發。",
+
+    "Sandbox_TWALT_GothStartKitFull": "全套胸掛 - 寬鬆 (ChestRigFull_Loose)",
+    "Sandbox_TWALT_GothStartKitFull_tooltip": "發放 Goth_ChestRigFull_Loose：容量 8、減重 80%。",
+
+    "Sandbox_TWALT_GothStartKitFullTight": "全套胸掛 - 緊身 (ChestRigFull_Tight)",
+    "Sandbox_TWALT_GothStartKitFullTight_tooltip": "發放 Goth_ChestRigFull_Tight：數值與寬鬆版完全相同，只是穿著外觀不同（右鍵選單可互相切換），已經有寬鬆版就不必再發。",
+
+    "Sandbox_TWALT_GothStartKitSmall": "小號胸掛 - 寬鬆 (ChestRig_Loose)",
+    "Sandbox_TWALT_GothStartKitSmall_tooltip": "發放 Goth_ChestRig_Loose：容量 6、減重 80%。"
+}

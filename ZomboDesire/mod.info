@@ -1,0 +1,14 @@
+name=ZomboDesire
+id=ZomboDesire
+poster=ZDposter.png
+icon=ZDlogo.png
+description=<RGB:1.0,1.0,1.0> ZomboDesire -  <RGB:0.99,0.73,0.34>  Created by BlaBla <RGB:1.0,1.0,1.0> <LINE>
+description=A modular framework for extending Project Zomboid with adult-themed content <LINE> <LINE>
+description=<RGB:0.91,0.65,0.18> Designed for Build 42 <RGB:1.0,1.0,1.0> <LINE>
+description=<RGB:0.10,0.98,0.81> New Features <LINE>
+description=<RGB:1.0,1.0,1.0> New Gameplay <LINE>
+description=<RGB:1.00,0.44,0.48> New Code <LINE> <LINE>
+description=<RGB:0.11,0.78,0.98> Unleash your darkest pleasures ! <RGB:1.0,1.0,1.0>
+authors=BlaBla
+version=0.4.2
+url=https://www.loverslab.com/

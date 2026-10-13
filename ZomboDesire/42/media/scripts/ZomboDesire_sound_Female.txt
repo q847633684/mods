@@ -1,0 +1,69 @@
+module Base
+{
+	sound ZomboDesireMuffledTalkingWoman
+	{
+		category = Player,
+		loop = false,
+		is3D = true,
+		clip
+		{
+			file = media/sound/ZomboDesire/Muffled_Talking_Woman_01.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+			volume = 1.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboDesire/Muffled_Talking_Woman_02.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+			volume = 1.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboDesire/Muffled_Talking_Woman_03.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+			volume = 1.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboDesire/Muffled_Talking_Woman_04.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+			volume = 1.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboDesire/Muffled_Talking_Woman_05.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+			volume = 1.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboDesire/Muffled_Talking_Woman_06.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+			volume = 1.0,
+		}
+	}
+}

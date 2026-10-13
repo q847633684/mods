@@ -1,0 +1,312 @@
+module ZLLewdModels
+{
+    imports { Base }
+
+    /* FEMALE ARMPIT HAIR */
+    item FemaleArmpit
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsFemaleArmpit,
+        BodyLocation = zllewdmodels:armpithair,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    item FemaleArmpit_Int
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsFemaleArmpit_Int,
+        BodyLocation = zllewdmodels:armpithair,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    item FemaleArmpit_Black2
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsFemaleArmpit_Black2,
+        BodyLocation = zllewdmodels:armpithair,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    /* MALE ARMPIT HAIR */
+    item MaleArmpit
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsMaleArmpit,
+        BodyLocation = zllewdmodels:armpithair,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    item MaleArmpit_Int
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsMaleArmpit_Int,
+        BodyLocation = zllewdmodels:armpithair,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    /* MALE CHEST HAIR */
+    item MaleChest
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsMaleChest,
+        BodyLocation = zllewdmodels:chesthair,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    item MaleChest_Int
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsMaleChest_Int,
+        BodyLocation = zllewdmodels:chesthair,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    /* FEMALE LEG HAIR */
+    item FemaleLeg
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsFemaleLeg,
+        BodyLocation = zllewdmodels:leghair,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    item FemaleLeg_Int
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsFemaleLeg_Int,
+        BodyLocation = zllewdmodels:leghair,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    item FemaleLeg_Black2
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsFemaleLeg_Black2,
+        BodyLocation = zllewdmodels:leghair,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    /* MALE LEG HAIR */
+    item MaleLeg
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsMaleLeg,
+        BodyLocation = zllewdmodels:leghair,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    item MaleLeg_Int
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsMaleLeg_Int,
+        BodyLocation = zllewdmodels:leghair,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    /* FEMALE PUBIC HAIR */
+    item FemalePubicNatural
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsFemalePubicNatural,
+        BodyLocation = zllewdmodels:pubichair,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    item FemalePubicNatural_Int
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsFemalePubicNatural_Int,
+        BodyLocation = zllewdmodels:pubichair,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    item FemalePubicNatural_Int_Black2
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsFemalePubicNatural_Int_Black2,
+        BodyLocation = zllewdmodels:pubichair,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    item FemalePubicNatural_Black2
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsFemalePubicNatural_Black2,
+        BodyLocation = zllewdmodels:pubichair,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    item FemalePubicStrip
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsFemalePubicStrip,
+        BodyLocation = zllewdmodels:pubichair,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    item FemalePubicStrip_Black2
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsFemalePubicStrip_Black2,
+        BodyLocation = zllewdmodels:pubichair,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    item FemalePubicTrimmed
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsFemalePubicTrimmed,
+        BodyLocation = zllewdmodels:pubichair,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    item FemalePubicTrimmed_Black2
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsFemalePubicTrimmed_Black2,
+        BodyLocation = zllewdmodels:pubichair,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    /* MALE PUBIC HAIR */
+    item MalePubicNatural
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsMalePubicNatural,
+        BodyLocation = zllewdmodels:pubichair,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    item MalePubicNatural_Int
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsMalePubicNatural_Int,
+        BodyLocation = zllewdmodels:pubichair,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    item MalePubicStrip
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsMalePubicStrip,
+        BodyLocation = zllewdmodels:pubichair,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    item MalePubicStrip_Int
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsMalePubicStrip_Int,
+        BodyLocation = zllewdmodels:pubichair,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    /* STUBBLE */
+    item StubbleBeard_Dark
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsStubbleBeard_Dark,
+        BodyLocation = zllewdmodels:beardstubble,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    item StubbleBeard_Light
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsStubbleBeard_Light,
+        BodyLocation = zllewdmodels:beardstubble,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    item StubbleHead_Dark_F
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsStubbleHead_Dark_F,
+        BodyLocation = zllewdmodels:headstubble,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    item StubbleHead_Dark_M
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsStubbleHead_Dark_M,
+        BodyLocation = zllewdmodels:headstubble,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    item StubbleHead_Light_F
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsStubbleHead_Light_F,
+        BodyLocation = zllewdmodels:headstubble,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+
+    item StubbleHead_Light_M
+    {
+        DisplayCategory = Clothing,
+        ItemType = base:clothing,
+        ClothingItem = ZLLewdModelsStubbleHead_Light_M,
+        BodyLocation = zllewdmodels:headstubble,
+        Weight = 0,
+        CanHaveHoles = false,
+    }
+}

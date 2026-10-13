@@ -1,0 +1,21 @@
+module Base
+{
+	sound ZombieBackground
+	{
+		category = World,
+		master = Ambient,
+		is3D = true,
+		loop = true,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/ZomboLust/Zombie/Zombie_Background_01.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.0,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+	}
+}

@@ -1,0 +1,310 @@
+module Base
+{
+	sound KateFellatioSlup
+	{
+		category = Player,
+		is3D = true,
+		loop = false,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_01.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_02.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_03.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_04.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_05.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_06.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_07.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_08.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_09.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_10.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_11.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_12.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_13.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_14.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_15.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_16.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_17.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_18.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_19.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_20.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_21.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_22.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_23.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_24.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_25.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_26.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_27.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_28.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_29.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Slup_30.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 0.92,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+	}
+}

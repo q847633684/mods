@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animNode>
+	<m_Name>BlaBla_Solo_Wave_Right_Hand</m_Name>
+	<m_Priority></m_Priority>
+	<m_AnimName>Bob_BlaBla_Solo_Wave_Right_Hand</m_AnimName>
+	<m_deferredBoneAxis>Y</m_deferredBoneAxis>
+	<m_Looped>false</m_Looped>
+	<m_BlendTime>5.5</m_BlendTime>
+	<m_BlendOutTime>0.3</m_BlendOutTime>
+	<m_SpeedScale>1.0</m_SpeedScale>
+	<m_EarlyTransitionOut>true</m_EarlyTransitionOut>
+	<m_SyncTrackingEnabled>true</m_SyncTrackingEnabled>
+	<m_Conditions>
+		<m_Name>PerformingAction</m_Name>
+		<m_Type>STRING</m_Type>
+		<m_StringValue>BlaBla_Solo_Wave_Right_Hand</m_StringValue>
+	</m_Conditions>
+	<m_Transitions>
+		<m_Target>BlaBla_Solo_Wave_Left_Hand</m_Target>
+		<m_AnimName>BlaBla_Solo_Wave_Left_Hand</m_AnimName>
+		<m_blendInTime>0.3</m_blendInTime>
+		<m_blendOutTime>0.3</m_blendOutTime>
+		<m_speedScale>1.0</m_speedScale>
+	</m_Transitions>
+	<m_SubStateBoneWeights>
+		<boneName>Dummy01</boneName>
+		<weight>1.0</weight>
+	</m_SubStateBoneWeights>
+	<m_SubStateBoneWeights>
+		<boneName>Translation_Data</boneName>
+		<weight>1.0</weight>
+	</m_SubStateBoneWeights>
+</animNode>

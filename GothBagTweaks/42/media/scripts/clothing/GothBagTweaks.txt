@@ -1,0 +1,191 @@
+module TombAlternative
+{
+    /* ============================================================================
+       Goth Backpack Tweaks - local patch for Tomb's Wardrobe - Alternative [VANILLA]
+       (Workshop 3616536783, id TombWardrobeALTVanilla, 42.20 branch)
+
+       Re-declares TombAlternative.Bag_Goth_Loose / Bag_Goth_Tight and
+       TombAlternative.Bag_L_Loose / Bag_L_Tight (大型哥特风背包) so that they get:
+         1) a 1.5 L hydration bladder (same as Legendary Backpack)
+         2) CanHaveHoles = true (Legendary Backpack has no such line at all; Tomb's
+            original said false, which opted the bag OUT of holes)
+         3) AttachmentsProvided = the same slot set the Legendary Backpack uses
+
+       Everything else is copied verbatim from
+       3616536783\mods\Tomb's Wardrobe - Alternative - Vanilla\42.20\media\scripts\clothing\tomb_containers.txt
+       (the duplicate "EquipSound = EquipSatchel" line was dropped; the effective
+        value EquipSound = EquipBackpackSmall is kept).
+
+       mod.info has require=TombWardrobeALTVanilla so this file loads AFTER the
+       original and replaces both item scripts. If Tomb's mod is ever updated and
+       changes these blocks, re-sync this file.
+       ============================================================================ */
+
+    item Bag_Goth_Loose
+    {
+        DisplayCategory = Bag,
+        ItemType = base:container,
+        Weight = 1.5,
+        IconsForTexture = GothBag;GothBag_Worn;GothBag_Plaid;GothBag_Edgy;GothBag_Bats;GothBag_Camo;GothBag_Webs;GothBag_Circuits,
+        AttachmentReplacement = Bag,
+        BloodLocation = Bag,
+        CanBeEquipped = base:back,
+        CanHaveHoles = true,
+        Capacity = 22,
+        WeightReduction = 80,
+        ClothingItem = Bag_Goth_Loose,
+        ClothingItemExtra = Bag_Goth_Tight,
+        ClothingItemExtraOption = TWTightenBag,
+        clothingExtraSubmenu = TWLoosenBag,
+        EquipSound = EquipBackpackSmall,
+        OpenSound = OpenBag,
+        CloseSound = CloseBag,
+        PutInSound = PutItemInBag,
+        ReplaceInPrimaryHand = Bag_Goth_RHand holdingbagright,
+        ReplaceInSecondHand = Bag_Goth_LHand holdingbagleft,
+        RunSpeedModifier = 0.95,
+        SoundParameter = EquippedBaggageContainer HikingBag,
+        WorldStaticModel = Bag_Goth_Ground,
+        Tags = base:isfirefuel;base:isfiretinder,
+        Researchablerecipes = SewCrudeLeatherBackpack,
+        AttachmentsProvided = SmallBeltLeft;SmallBeltRight;WebbingRight;WebbingLeft;BedrollBottom,
+
+        component FluidContainer
+        {
+            ContainerName = HydrationBackpack,
+            Capacity = 1.5,
+            InitialPercentMin = 1.0,
+            InitialPercentMax = 1.0,
+            Fluids
+            {
+                fluid = Water:1.5,
+            }
+        }
+    }
+
+    item Bag_Goth_Tight
+    {
+        DisplayCategory = Bag,
+        ItemType = base:container,
+        Weight = 1.5,
+        IconsForTexture = GothBag;GothBag_Worn;GothBag_Plaid;GothBag_Edgy;GothBag_Bats;GothBag_Camo;GothBag_Webs;GothBag_Circuits,
+        AttachmentReplacement = Bag,
+        BloodLocation = Bag,
+        CanBeEquipped = base:back,
+        CanHaveHoles = true,
+        Capacity = 22,
+        WeightReduction = 80,
+        ClothingItem = Bag_Goth_Tight,
+        ClothingItemExtra = Bag_Goth_Loose,
+        ClothingItemExtraOption = TWLoosenBag,
+        clothingExtraSubmenu = TWTightenBag,
+        EquipSound = EquipBackpackSmall,
+        OpenSound = OpenBag,
+        CloseSound = CloseBag,
+        PutInSound = PutItemInBag,
+        ReplaceInPrimaryHand = Bag_Goth_RHand holdingbagright,
+        ReplaceInSecondHand = Bag_Goth_LHand holdingbagleft,
+        RunSpeedModifier = 0.95,
+        SoundParameter = EquippedBaggageContainer HikingBag,
+        WorldStaticModel = Bag_Goth_Ground,
+        Tags = base:isfirefuel;base:isfiretinder,
+        Researchablerecipes = SewCrudeLeatherBackpack,
+        AttachmentsProvided = SmallBeltLeft;SmallBeltRight;WebbingRight;WebbingLeft;BedrollBottom,
+
+        component FluidContainer
+        {
+            ContainerName = HydrationBackpack,
+            Capacity = 1.5,
+            InitialPercentMin = 1.0,
+            InitialPercentMax = 1.0,
+            Fluids
+            {
+                fluid = Water:1.5,
+            }
+        }
+    }
+
+    item Bag_L_Loose
+    {
+        DisplayCategory = Bag,
+        ItemType = base:container,
+        Weight = 2,
+        IconsForTexture = LargeGothBag;LargeGothBag_Worn;LargeGothBag_Plaid;LargeGothBag_Edgy;LargeGothBag_Bats;LargeGothBag_Camo;LargeGothBag_Webs;LargeGothBag_Circuits,
+        AttachmentReplacement = Bag,
+        BloodLocation = Bag,
+        CanBeEquipped = base:back,
+        CanHaveHoles = true,
+        Capacity = 22,
+        WeightReduction = 80,
+        ClothingItem = Bag_L_Loose,
+        ClothingItemExtra = Bag_L_Tight,
+        ClothingItemExtraOption = TWTightenBag,
+        clothingExtraSubmenu = TWLoosenBag,
+        EquipSound = EquipBackpackSmall,
+        OpenSound = OpenBag,
+        CloseSound = CloseBag,
+        PutInSound = PutItemInBag,
+        ReplaceInPrimaryHand = Bag_L_RHand holdingbagright,
+        ReplaceInSecondHand = Bag_L_LHand holdingbagleft,
+        RunSpeedModifier = 0.96,
+        SoundParameter = EquippedBaggageContainer HikingBag,
+        WorldStaticModel = Bag_L_Ground,
+        Tags = base:isfirefuel;base:isfiretinder,
+        Researchablerecipes = SewCrudeLeatherBackpack,
+        AttachmentsProvided = SmallBeltLeft;SmallBeltRight;WebbingRight;WebbingLeft;BedrollBottom,
+
+        component FluidContainer
+        {
+            ContainerName = HydrationBackpack,
+            Capacity = 1.5,
+            InitialPercentMin = 1.0,
+            InitialPercentMax = 1.0,
+            Fluids
+            {
+                fluid = Water:1.5,
+            }
+        }
+    }
+
+    item Bag_L_Tight
+    {
+        DisplayCategory = Bag,
+        ItemType = base:container,
+        Weight = 2,
+        IconsForTexture = LargeGothBag;LargeGothBag_Worn;LargeGothBag_Plaid;LargeGothBag_Edgy;LargeGothBag_Bats;LargeGothBag_Camo;LargeGothBag_Webs;LargeGothBag_Circuits,
+        AttachmentReplacement = Bag,
+        BloodLocation = Bag,
+        CanBeEquipped = base:back,
+        CanHaveHoles = true,
+        Capacity = 22,
+        WeightReduction = 80,
+        ClothingItem = Bag_L_Tight,
+        ClothingItemExtra = Bag_L_Loose,
+        ClothingItemExtraOption = TWLoosenBag,
+        clothingExtraSubmenu = TWTightenBag,
+        EquipSound = EquipBackpackSmall,
+        OpenSound = OpenBag,
+        CloseSound = CloseBag,
+        PutInSound = PutItemInBag,
+        ReplaceInPrimaryHand = Bag_L_RHand holdingbagright,
+        ReplaceInSecondHand = Bag_L_LHand holdingbagleft,
+        RunSpeedModifier = 0.96,
+        SoundParameter = EquippedBaggageContainer HikingBag,
+        WorldStaticModel = Bag_L_Ground,
+        Tags = base:isfirefuel;base:isfiretinder,
+        Researchablerecipes = SewCrudeLeatherBackpack,
+        AttachmentsProvided = SmallBeltLeft;SmallBeltRight;WebbingRight;WebbingLeft;BedrollBottom,
+
+        component FluidContainer
+        {
+            ContainerName = HydrationBackpack,
+            Capacity = 1.5,
+            InitialPercentMin = 1.0,
+            InitialPercentMax = 1.0,
+            Fluids
+            {
+                fluid = Water:1.5,
+            }
+        }
+    }
+}

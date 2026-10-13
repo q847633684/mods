@@ -1,0 +1,180 @@
+module Base
+{
+	sound JanineMoanHotLong
+	{
+		category = Player,
+		is3D = true,
+		loop = false,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Inter/Female_Moan_Hot_Tone_Inter_Long_01.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Inter/Female_Moan_Hot_Tone_Inter_Long_02.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Inter/Female_Moan_Hot_Tone_Inter_Long_03.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Inter/Female_Moan_Hot_Tone_Inter_Long_04.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Inter/Female_Moan_Hot_Tone_Inter_Long_05.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Inter/Female_Moan_Hot_Tone_Inter_Long_06.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Inter/Female_Moan_Hot_Tone_Inter_Long_07.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Inter/Female_Moan_Hot_Tone_Inter_Long_08.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Inter/Female_Moan_Hot_Tone_Inter_Long_09.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Inter/Female_Moan_Hot_Tone_Inter_Long_10.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Inter/Female_Moan_Hot_Tone_Inter_Long_11.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Inter/Female_Moan_Hot_Tone_Inter_Long_12.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Inter/Female_Moan_Hot_Tone_Inter_Long_13.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Inter/Female_Moan_Hot_Tone_Inter_Long_14.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Inter/Female_Moan_Hot_Tone_Inter_Long_15.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Inter/Female_Moan_Hot_Tone_Inter_Long_16.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Tone_Inter/Female_Moan_Hot_Tone_Inter_Long_17.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+	}
+}

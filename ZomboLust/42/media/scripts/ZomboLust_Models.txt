@@ -1,0 +1,111 @@
+module ZomboLust {
+	model Penis_Light
+	{
+		mesh        = WorldItems/Penis_Light,
+		texture     = WorldItems/Penis_Light,
+		scale       = 1,
+		attachment world
+		{
+			offset = 0.0 0.0 0.0,
+			rotate = 0.0 0.0 0.0,
+		}
+		attachment Bip01_Prop1
+		{
+			offset = 0.0 0.0 0.0,
+			rotate = 0.0 0.0 0.0,
+		}
+		attachment Bip01_Prop2
+		{
+			offset = 0.0 0.0 0.0,
+			rotate = 0.0 0.0 0.0,
+		}
+	}
+
+	model Penis_Pale
+	{
+		mesh        = WorldItems/Penis_Pale,
+		texture     = WorldItems/Penis_Pale,
+		scale       = 1,
+		attachment world
+		{
+			offset = 0.0 0.0 0.0,
+			rotate = 0.0 0.0 0.0,
+		}
+		attachment Bip01_Prop1
+		{
+			offset = 0.0 0.0 0.0,
+			rotate = 0.0 0.0 0.0,
+		}
+		attachment Bip01_Prop2
+		{
+			offset = 0.0 0.0 0.0,
+			rotate = 0.0 0.0 0.0,
+		}
+	}
+
+	model Penis_Medium
+	{
+		mesh        = WorldItems/Penis_Medium,
+		texture     = WorldItems/Penis_Medium,
+		scale       = 1,
+		attachment world
+		{
+			offset = 0.0 0.0 0.0,
+			rotate = 0.0 0.0 0.0,
+		}
+		attachment Bip01_Prop1
+		{
+			offset = 0.0 0.0 0.0,
+			rotate = 0.0 0.0 0.0,
+		}
+		attachment Bip01_Prop2
+		{
+			offset = 0.0 0.0 0.0,
+			rotate = 0.0 0.0 0.0,
+		}
+	}
+
+	model Penis_Brown
+	{
+		mesh        = WorldItems/Penis_Brown,
+		texture     = WorldItems/Penis_Brown,
+		scale       = 1,
+		attachment world
+		{
+			offset = 0.0 0.0 0.0,
+			rotate = 0.0 0.0 0.0,
+		}
+		attachment Bip01_Prop1
+		{
+			offset = 0.0 0.0 0.0,
+			rotate = 0.0 0.0 0.0,
+		}
+		attachment Bip01_Prop2
+		{
+			offset = 0.0 0.0 0.0,
+			rotate = 0.0 0.0 0.0,
+		}
+	}
+
+	model Penis_Dark
+	{
+		mesh        = WorldItems/Penis_Dark,
+		texture     = WorldItems/Penis_Dark,
+		scale       = 1,
+		attachment world
+		{
+			offset = 0.0 0.0 0.0,
+			rotate = 0.0 0.0 0.0,
+		}
+		attachment Bip01_Prop1
+		{
+			offset = 0.0 0.0 0.0,
+			rotate = 0.0 0.0 0.0,
+		}
+		attachment Bip01_Prop2
+		{
+			offset = 0.0 0.0 0.0,
+			rotate = 0.0 0.0 0.0,
+		}
+	}
+}

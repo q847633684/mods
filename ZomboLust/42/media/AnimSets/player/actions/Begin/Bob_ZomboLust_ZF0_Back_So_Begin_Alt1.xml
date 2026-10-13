@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animNode>
+	<m_Name>Bob_ZomboLust_ZF0_Back_So_Begin_Alt1</m_Name>
+	<m_Priority></m_Priority>
+	<m_AnimName>Bob_ZomboLust_ZF0_Back_So_Begin_Alt1</m_AnimName>
+	<m_deferredBoneAxis>Y</m_deferredBoneAxis>
+	<m_Looped>false</m_Looped>
+	<m_BlendTime>0.5</m_BlendTime>
+	<m_BlendOutTime>0.5</m_BlendOutTime>
+	<m_SpeedScale>1.0</m_SpeedScale>
+	<m_EarlyTransitionOut>false</m_EarlyTransitionOut>
+	<m_SyncTrackingEnabled>true</m_SyncTrackingEnabled>
+	<m_Conditions>
+		<m_Name>PerformingAction</m_Name>
+		<m_Type>STRING</m_Type>
+		<m_StringValue>Bob_ZomboLust_ZF0_Back_So_Begin_Alt1</m_StringValue>
+	</m_Conditions>
+	<m_Events>
+		<m_EventName>MaleGrunt</m_EventName>
+		<m_TimePc>0.100</m_TimePc>
+		<m_ParameterValue></m_ParameterValue>
+	</m_Events>
+	<m_Events>
+		<m_EventName>MaleGrunt</m_EventName>
+		<m_TimePc>0.370</m_TimePc>
+		<m_ParameterValue></m_ParameterValue>
+	</m_Events>
+	<m_SubStateBoneWeights>
+		<boneName>Dummy01</boneName>
+		<weight>1.0</weight>
+	</m_SubStateBoneWeights>
+	<m_SubStateBoneWeights>
+		<boneName>Translation_Data</boneName>
+		<weight>1.0</weight>
+	</m_SubStateBoneWeights>
+</animNode>

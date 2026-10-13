@@ -1,0 +1,9 @@
+id=BF-cn
+name=Being Female - CN
+author=Zikhad
+description=CN 中《Being Female》的翻译包。
+url=https://github.com/zikhad/being-female
+poster=./poster.png
+icon=./logo.png
+pzversion=42
+require=BF

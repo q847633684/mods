@@ -1,0 +1,240 @@
+module Base
+{
+	sound JanineFellatioCough
+	{
+		category = Player,
+		is3D = true,
+		loop = false,
+		maxInstancesPerEmitter = 1,
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Cough_01.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Cough_02.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Cough_03.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Cough_04.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Cough_05.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Cough_06.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Cough_07.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Cough_08.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Cough_09.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Cough_10.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Cough_11.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Cough_12.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Cough_13.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Cough_14.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Cough_15.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Cough_16.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Cough_17.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Cough_18.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Cough_19.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Cough_20.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Cough_21.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Cough_22.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+		clip
+		{
+			file = media/sound/ZomboLust/Female/Female_Fellatio_Cough_23.ogg,
+			distanceMax = 60,
+			distanceMin = 10,
+			pitch = 1.12,
+			volume = 1.0,
+			reverbFactor = 0.1,
+			reverbMaxRange = 20.0,
+		}
+	}
+}

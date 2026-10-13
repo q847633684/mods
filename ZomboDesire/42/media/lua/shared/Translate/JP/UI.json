@@ -1,0 +1,11 @@
+{
+    "UI_options_ZomboDesire_animationTitle": "アニメーション : ",
+    "UI_options_ZomboDesire_stage2Multiplier": "中央アニメーションの持続時間倍率",
+    "UI_options_ZomboDesire_stage2Multiplier_tooltip": "中央アニメーションをループ再生する回数。",
+    "UI_options_ZomboDesire_escapeTitle": "逃走 : ",
+    "UI_options_ZomboDesire_escapeDuration": "逃走持続時間",
+    "UI_options_ZomboDesire_escapeDuration_tooltip": "不可視化時間（分）。時間が長いほど不可視の状態が長く続きますが、その分、不可視終了時にあなたの位置により多くのゾンビを引き寄せます。",
+    "UI_options_ZomboDesire_multiplier_val": "%1x",
+    "UI_options_ZomboDesire_minute_val": "%1 分",
+    "UI_options_ZomboDesire_minutes_val": "%1 分"
+}

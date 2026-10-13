@@ -1,0 +1,11 @@
+{
+    "UI_options_ZomboDesire_animationTitle": "Animationer : ",
+    "UI_options_ZomboDesire_stage2Multiplier": "Central animationstidmultiplikator",
+    "UI_options_ZomboDesire_stage2Multiplier_tooltip": "Antal gånger den centrala animationen ska loopas.",
+    "UI_options_ZomboDesire_escapeTitle": "Flykt : ",
+    "UI_options_ZomboDesire_escapeDuration": "Flykttid",
+    "UI_options_ZomboDesire_escapeDuration_tooltip": "Osynlighetstid (min). Ju längre varaktighet, desto längre förblir du osynlig, men i gengäld lockar det till sig fler zombier på din position vid slutet av osynligheten.",
+    "UI_options_ZomboDesire_multiplier_val": "%1x",
+    "UI_options_ZomboDesire_minute_val": "%1 Minut",
+    "UI_options_ZomboDesire_minutes_val": "%1 Minuter"
+}

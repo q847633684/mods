@@ -1,0 +1,17 @@
+name=ZomboLust
+id=ZomboLust
+poster=ZLposter.png
+icon=ZLlogo.png
+description=<RGB:1.0,1.0,1.0> ZomboLust -  <RGB:0.99,0.73,0.34>  Created by BlaBla <RGB:1.0,1.0,1.0> <LINE>
+description=A revamped version of ZomboLewd and ZomboWin <LINE> <LINE>
+description=<RGB:0.91,0.65,0.18> Designed for Build 42 <RGB:1.0,1.0,1.0> <LINE>
+description=<RGB:0.10,0.98,0.81> Revamped Features <LINE>
+description=<RGB:1.0,1.0,1.0> Revamped Gameplay <LINE>
+description=<RGB:1.00,0.44,0.48> Revamped code <LINE> <LINE>
+description=<RGB:0.11,0.78,0.98> Happy debauchery to all ! <RGB:1.0,1.0,1.0> <LINE> <LINE>
+description=<RGB:0.10,0.98,0.81> Special thanks to Hind for the title image and loading animation
+versionMin=42.0
+author=BlaBla
+modversion=0.4
+require=ZomboDesire
+url=https://www.loverslab.com/

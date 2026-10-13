@@ -1,0 +1,32 @@
+module ZomboLust
+{
+    character_profession_definition zombolust:prostitute
+    {
+        CharacterProfession = zombolust:prostitute,
+        Cost = 0,
+        UIName = UI_prof_prostitute,
+        UIDescription = UI_profdesc_prostitute,
+        IconPathName = profession_prostitute,
+        XPBoosts = Lightfoot=1;Sneak=1;Nimble=1,
+    }
+
+    character_profession_definition zombolust:sexslave
+    {
+        CharacterProfession = zombolust:sexslave,
+        Cost = 3,
+        UIName = UI_prof_sexslave,
+        UIDescription = UI_profdesc_sexslave,
+        IconPathName = profession_sexslave,
+        XPBoosts = Strength=-2;Fitness=-2;Lightfoot=3;Sneak=3,
+    }
+
+    character_profession_definition zombolust:sexperiment
+    {
+        CharacterProfession = zombolust:sexperiment,
+        Cost = -4,
+        UIName = UI_prof_sexperiment,
+        UIDescription = UI_profdesc_sexperiment,
+        IconPathName = profession_sexperiment,
+        XPBoosts = Fitness=1;Strength=1,
+    }
+}

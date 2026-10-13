@@ -1,0 +1,4 @@
+name=本地汉化合集 (LocalCN: damnlib + AuthZ-Lite + VOE + 槽位名)
+id=LocalCN
+author=local patch
+description=Merged local Chinese translations, previously four separate mods: that DAMN Library (DamnLib_CN, 2242 keys), Authentic Z - Lite (AuthenticZLite_CN, 2869), Vanilla Outfits Expanded (VanillaOutfitsExpanded_CN, 48) and 30 custom clothing-slot names (SlotNames_CN). No dependencies: keys simply apply when the matching mod is loaded.

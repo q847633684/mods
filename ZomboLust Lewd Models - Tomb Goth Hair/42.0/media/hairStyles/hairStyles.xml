@@ -1,0 +1,730 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hairStyles>
+<!--Male-->
+
+	<male><name>M_Draven</name>
+		<model>skinned\hair\M_Draven</model>
+		<texture>F_Hair_White</texture>
+		<alternate category="default" style="M_Draven" />
+		<alternate category="Group01" style="M_DravenG1" />
+		<alternate category="Group02" style="M_DravenG1" />
+		<alternate category="Group03" style="M_DravenG3" />
+		<alternate category="Group04" style="M_DravenG4" />
+		<alternate category="Group05" style="M_Draven" />
+		<alternate category="Group06" style="M_DravenG1" />
+		<alternate category="Group07" style="M_DravenG7" />
+		<level>2</level>
+	</male>
+
+	<male><name>M_Dollar</name>
+		<model>skinned\hair\M_Dollar</model>
+		<texture>F_Hair_White</texture>
+		<alternate category="default" style="M_Dollar" />
+		<alternate category="Group01" style="M_DollarG1" />
+		<alternate category="Group02" style="M_DollarG2" />
+		<alternate category="Group03" style="M_DollarG3" />
+		<alternate category="Group04" style="M_DollarG4" />
+		<alternate category="Group05" style="M_Dollar" />
+		<alternate category="Group06" style="M_DollarG1" />
+		<alternate category="Group07" style="M_DollarG7" />
+		<level>3</level>
+	</male>
+	
+	<male><name>M_Vamp</name>
+		<model>skinned\hair\M_Vamp</model>
+		<texture>F_Hair_White</texture>
+		<alternate category="default" style="M_Vamp" />
+		<alternate category="Group01" style="M_VampG1" />
+		<alternate category="Group02" style="M_VampG2" />
+		<alternate category="Group03" style="M_VampG3" />
+		<alternate category="Group04" style="M_VampG4" />
+		<alternate category="Group05" style="M_Vamp" />
+		<alternate category="Group06" style="M_VampG1" />
+		<alternate category="Group07" style="M_VampG7" />
+		<level>3</level>
+	</male>	
+	
+<!--	<male><name>M_Enigma</name>
+		<model>skinned\hair\M_Enigma</model>
+		<texture>F_Hair_White</texture>
+		<alternate category="default" style="M_Enigma" />
+		<alternate category="Group01" style="M_EnigmaG1" />
+		<alternate category="Group02" style="M_EnigmaG2" />
+		<alternate category="Group03" style="M_EnigmaG3" />
+		<alternate category="Group04" style="M_EnigmaG4" />
+		<alternate category="Group05" style="M_Enigma" />
+		<alternate category="Group06" style="M_EnigmaG1" />
+		<alternate category="Group07" style="M_EnigmaG7" />
+		<level>3</level>
+	</male>	-->
+
+	<male><name>M_Violent</name>
+		<model>skinned\hair\M_Violent</model>
+		<texture>F_Hair_White</texture>
+		<alternate category="default" style="M_Violent" />
+		<alternate category="Group01" style="M_ViolentG1" />
+		<alternate category="Group02" style="M_ViolentG2" />
+		<alternate category="Group03" style="M_ViolentG3" />
+		<alternate category="Group04" style="M_ViolentG4" />
+		<alternate category="Group05" style="M_Violent" />
+		<alternate category="Group06" style="M_ViolentG1" />
+		<alternate category="Group07" style="M_ViolentG7" />
+		<level>3</level>
+	</male>	
+	
+	
+	
+<!--Female-->
+
+	<female><name>F_Reaper</name>
+		<model>skinned\hair\F_Reaper</model>
+		<texture>F_Hair_White</texture>
+		<alternate category="default" style="F_Reaper" />
+		<alternate category="Group01" style="F_ReaperG1" />
+		<alternate category="Group02" style="F_ReaperG2" />
+		<alternate category="Group03" style="F_ReaperG3" />
+		<alternate category="Group04" style="F_ReaperG4" />
+		<alternate category="Group05" style="F_Reaper" />
+		<alternate category="Group06" style="F_ReaperG1" />
+		<alternate category="Group07" style="F_ReaperG7" />
+		<level>2</level>
+	</female>
+
+	<female><name>F_Draven</name>
+		<model>skinned\hair\F_Draven</model>
+		<texture>F_Hair_White</texture>
+		<alternate category="default" style="F_Draven" />
+		<alternate category="Group01" style="F_DravenG1" />
+		<alternate category="Group02" style="F_DravenG2" />
+		<alternate category="Group03" style="F_DravenG3" />
+		<alternate category="Group04" style="F_DravenG4" />
+		<alternate category="Group05" style="F_Draven" />
+		<alternate category="Group06" style="F_DravenG1" />
+		<alternate category="Group07" style="F_DravenG7" />
+		<level>2</level>
+	</female>
+	
+	<female><name>F_GothBob</name>
+		<model>skinned\hair\F_GothBob</model>
+		<texture>F_Hair_White</texture>
+		<alternate category="default" style="F_GothBob" />
+		<alternate category="Group01" style="F_GothBobG1" />
+		<alternate category="Group02" style="F_GothBobG2" />
+		<alternate category="Group03" style="F_GothBobG3" />
+		<alternate category="Group04" style="F_GothBobG4" />
+		<alternate category="Group05" style="F_GothBob" />
+		<alternate category="Group06" style="F_GothBobG1" />
+		<alternate category="Group07" style="F_GothBobG7" />
+		<level>2</level>
+	</female>
+
+	<female><name>F_Vamp</name>
+		<model>skinned\hair\F_Vamp</model>
+		<texture>F_Hair_White</texture>
+		<alternate category="default" style="F_Vamp" />
+		<alternate category="Group01" style="F_VampG1" />
+		<alternate category="Group02" style="F_VampG2" />
+		<alternate category="Group03" style="F_VampG3" />
+		<alternate category="Group04" style="F_VampG4" />
+		<alternate category="Group05" style="F_Vamp" />
+		<alternate category="Group06" style="F_VampG1" />
+		<alternate category="Group07" style="F_VampG7" />
+		<level>3</level>
+	</female>
+	
+	<female><name>F_GothBobNobun</name>
+		<model>skinned\hair\F_GothBobNobun</model>
+		<texture>F_Hair_White</texture>
+		<alternate category="default" style="F_GothBobNobun" />
+		<alternate category="Group01" style="F_GothBobNobunG1" />
+		<alternate category="Group02" style="F_GothBobNobunG2" />
+		<alternate category="Group03" style="F_GothBobNobunG3" />
+		<alternate category="Group04" style="F_GothBobNobunG4" />
+		<alternate category="Group05" style="F_GothBobNobun" />
+		<alternate category="Group06" style="F_GothBobNobunG1" />
+		<alternate category="Group07" style="F_GothBobNobunG7" />
+		<level>2</level>
+	</female>
+
+	<female><name>F_Dollar</name>
+		<model>skinned\hair\F_Dollar</model>
+		<texture>F_Hair_White</texture>
+		<alternate category="default" style="F_Dollar" />
+		<alternate category="Group01" style="F_DollarG1" />
+		<alternate category="Group02" style="F_DollarG2" />
+		<alternate category="Group03" style="F_DollarG3" />
+		<alternate category="Group04" style="F_DollarG4" />
+		<alternate category="Group05" style="F_Dollar" />
+		<alternate category="Group06" style="F_DollarG1" />
+		<alternate category="Group07" style="F_DollarG7" />
+		<level>3</level>
+	</female>
+	
+	<female><name>F_SweptFringeLong</name>
+		<model>skinned\hair\F_SweptFringeLong</model>
+		<texture>F_Hair_White</texture>
+		<alternate category="default" style="F_SweptFringeLong" />
+		<alternate category="Group01" style="F_SweptFringeLongG1" />
+		<alternate category="Group02" style="F_SweptFringeLongG2" />
+		<alternate category="Group03" style="F_SweptFringeLongG3" />
+		<alternate category="Group04" style="F_SweptFringeLongG4" />
+		<alternate category="Group05" style="F_SweptFringeLong" />
+		<alternate category="Group06" style="F_SweptFringeLongG1" />
+		<alternate category="Group07" style="F_SweptFringeLongG7" />
+		<level>3</level>
+	</female>	
+
+	<female><name>F_StraightFringeLong</name>
+		<model>skinned\hair\F_StraightFringeLong</model>
+		<texture>F_Hair_White</texture>
+		<alternate category="default" style="F_StraightFringeLong" />
+		<alternate category="Group01" style="F_StraightFringeLongG1" />
+		<alternate category="Group02" style="F_StraightFringeLongG2" />
+		<alternate category="Group03" style="F_StraightFringeLongG3" />
+		<alternate category="Group04" style="F_StraightFringeLongG4" />
+		<alternate category="Group05" style="F_StraightFringeLong" />
+		<alternate category="Group06" style="F_StraightFringeLongG1" />
+		<alternate category="Group07" style="F_StraightFringeLongG7" />
+		<level>3</level>
+	</female>
+
+<!--	<female><name>F_Enigma</name>
+		<model>skinned\hair\F_Enigma</model>
+		<texture>F_Hair_White</texture>
+		<alternate category="default" style="F_Enigma" />
+		<alternate category="Group01" style="F_EnigmaG1" />
+		<alternate category="Group02" style="F_EnigmaG2" />
+		<alternate category="Group03" style="F_EnigmaG3" />
+		<alternate category="Group04" style="F_EnigmaG4" />
+		<alternate category="Group05" style="F_Enigma" />
+		<alternate category="Group06" style="F_EnigmaG1" />
+		<alternate category="Group07" style="F_EnigmaG7" />
+		<level>3</level>
+	</female> -->	
+
+	<female><name>F_Formalgoth</name>
+		<model>skinned\hair\F_Formalgoth</model>
+		<texture>F_Hair_White</texture>
+		<alternate category="default" style="F_Formalgoth" />
+		<alternate category="Group01" style="F_FormalgothG1" />
+		<alternate category="Group02" style="F_FormalgothG2" />
+		<alternate category="Group03" style="F_FormalgothG3" />
+		<alternate category="Group04" style="F_FormalgothG4" />
+		<alternate category="Group05" style="F_Formalgoth" />
+		<alternate category="Group06" style="F_FormalgothG1" />
+		<alternate category="Group07" style="F_FormalgothG7" />
+		<level>3</level>
+	</female>	
+	
+	<female><name>F_Violet</name>
+		<model>skinned\hair\F_Violet</model>
+		<texture>F_Hair_White</texture>
+		<alternate category="default" style="F_Violet" />
+		<alternate category="Group01" style="F_VioletG1" />
+		<alternate category="Group02" style="F_VioletG2" />
+		<alternate category="Group03" style="F_VioletG3" />
+		<alternate category="Group04" style="F_VioletG4" />
+		<alternate category="Group05" style="F_Violet" />
+		<alternate category="Group06" style="F_VioletG1" />
+		<alternate category="Group07" style="F_VioletG7" />
+		<level>3</level>
+	</female>		
+	
+	
+<!--Hat-->
+	<male>
+		<name>M_DravenG1</name>
+		<model>skinned/hair/M_DravenG1</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</male>	
+	<male>
+		<name>M_DravenG3</name>
+		<model>skinned/hair/M_DravenG3</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</male>	
+	<male>
+		<name>M_DravenG4</name>
+		<model>skinned/hair/M_DravenG4</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</male>	
+	<male>
+		<name>M_DravenG7</name>
+		<model>skinned/hair/M_DravenG7</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</male>	
+
+	<male>
+		<name>M_DollarG1</name>
+		<model>skinned/hair/M_DollarG1</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</male>	
+	<male>
+		<name>M_DollarG2</name>
+		<model>skinned/hair/M_DollarG2</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</male>		
+	<male>
+		<name>M_DollarG3</name>
+		<model>skinned/hair/M_DollarG3</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</male>			
+	<male>
+		<name>M_DollarG4</name>
+		<model>skinned/hair/M_DollarG4</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</male>			
+	<male>
+		<name>M_DollarG7</name>
+		<model>skinned/hair/M_DollarG7</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</male>		
+
+	<male>
+		<name>M_VampG1</name>
+		<model>skinned/hair/M_VampG1</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</male>	
+	<male>
+		<name>M_VampG2</name>
+		<model>skinned/hair/M_VampG2</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</male>		
+	<male>
+		<name>M_VampG3</name>
+		<model>skinned/hair/M_VampG3</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</male>			
+	<male>
+		<name>M_VampG4</name>
+		<model>skinned/hair/M_VampG4</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</male>			
+	<male>
+		<name>M_VampG7</name>
+		<model>skinned/hair/M_VampG7</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</male>	
+
+<!--<male>
+		<name>M_EnigmaG1</name>
+		<model>skinned/hair/M_EnigmaG1</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</male>	
+	<male>
+		<name>M_EnigmaG2</name>
+		<model>skinned/hair/M_EnigmaG2</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</male>	
+	<male>
+		<name>M_EnigmaG3</name>
+		<model>skinned/hair/M_EnigmaG3</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</male>	
+	<male>
+		<name>M_EnigmaG4</name>
+		<model>skinned/hair/M_EnigmaG4</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</male>	
+	<male>
+		<name>M_EnigmaG7</name>
+		<model>skinned/hair/M_EnigmaG7</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</male>	-->
+	
+	<male>
+		<name>M_ViolentG1</name>
+		<model>skinned/hair/M_ViolentG1</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</male>	
+	<male>
+		<name>M_ViolentG2</name>
+		<model>skinned/hair/M_ViolentG2</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</male>	
+	<male>
+		<name>M_ViolentG3</name>
+		<model>skinned/hair/M_ViolentG3</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</male>	
+	<male>
+		<name>M_ViolentG4</name>
+		<model>skinned/hair/M_ViolentG4</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</male>	
+	<male>
+		<name>M_ViolentG7</name>
+		<model>skinned/hair/M_ViolentG7</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</male>	
+
+
+
+
+	
+	<female>
+		<name>F_ReaperG1</name>
+		<model>skinned/hair/F_ReaperG1</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>
+	<female>
+		<name>F_ReaperG2</name>
+		<model>skinned/hair/F_ReaperG2</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>
+	<female>
+		<name>F_ReaperG3</name>
+		<model>skinned/hair/F_ReaperG3</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>
+	<female>
+		<name>F_ReaperG4</name>
+		<model>skinned/hair/F_ReaperG4</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>
+	<female>
+		<name>F_ReaperG7</name>
+		<model>skinned/hair/F_ReaperG7</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>
+
+	<female>
+		<name>F_DravenG1</name>
+		<model>skinned/hair/F_DravenG1</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>	
+	<female>
+		<name>F_DravenG2</name>
+		<model>skinned/hair/F_DravenG2</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>	
+	<female>
+		<name>F_DravenG3</name>
+		<model>skinned/hair/F_DravenG3</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>	
+	<female>
+		<name>F_DravenG4</name>
+		<model>skinned/hair/F_DravenG4</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>	
+	<female>
+		<name>F_DravenG7</name>
+		<model>skinned/hair/F_DravenG7</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>	
+
+	<female>
+		<name>F_DollarG1</name>
+		<model>skinned/hair/F_DollarG1</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>	
+	<female>
+		<name>F_DollarG2</name>
+		<model>skinned/hair/F_DollarG2</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>		
+	<female>
+		<name>F_DollarG3</name>
+		<model>skinned/hair/F_DollarG3</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>			
+	<female>
+		<name>F_DollarG4</name>
+		<model>skinned/hair/F_DollarG4</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>			
+	<female>
+		<name>F_DollarG7</name>
+		<model>skinned/hair/F_DollarG7</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>	
+
+	<female>
+		<name>F_GothBobG1</name>
+		<model>skinned/hair/F_GothBobG1</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>	
+	<female>
+		<name>F_GothBobG2</name>
+		<model>skinned/hair/F_GothBobG2</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>		
+	<female>
+		<name>F_GothBobG3</name>
+		<model>skinned/hair/F_GothBobG3</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>			
+	<female>
+		<name>F_GothBobG4</name>
+		<model>skinned/hair/F_GothBobG4</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>			
+	<female>
+		<name>F_GothBobG7</name>
+		<model>skinned/hair/F_GothBobG7</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>
+
+	<female>
+		<name>F_GothBobNobunG1</name>
+		<model>skinned/hair/F_GothBobNobunG1</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>	
+	<female>
+		<name>F_GothBobNobunG2</name>
+		<model>skinned/hair/F_GothBobNobunG2</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>		
+	<female>
+		<name>F_GothBobNobunG3</name>
+		<model>skinned/hair/F_GothBobNobunG3</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>			
+	<female>
+		<name>F_GothBobNobunG4</name>
+		<model>skinned/hair/F_GothBobNobunG4</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>			
+	<female>
+		<name>F_GothBobNobunG7</name>
+		<model>skinned/hair/F_GothBobNobunG7</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>
+
+	<female>
+		<name>F_VampG1</name>
+		<model>skinned/hair/F_VampG1</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>	
+	<female>
+		<name>F_VampG2</name>
+		<model>skinned/hair/F_VampG2</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>		
+	<female>
+		<name>F_VampG3</name>
+		<model>skinned/hair/F_VampG3</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>			
+	<female>
+		<name>F_VampG4</name>
+		<model>skinned/hair/F_VampG4</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>			
+	<female>
+		<name>F_VampG7</name>
+		<model>skinned/hair/F_VampG7</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>	
+
+	<female>
+		<name>F_SweptFringeLongG1</name>
+		<model>skinned/hair/F_SweptFringeLongG1</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>	
+	<female>
+		<name>F_SweptFringeLongG2</name>
+		<model>skinned/hair/F_SweptFringeLongG2</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>		
+	<female>
+		<name>F_SweptFringeLongG3</name>
+		<model>skinned/hair/F_SweptFringeLongG3</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>			
+	<female>
+		<name>F_SweptFringeLongG4</name>
+		<model>skinned/hair/F_SweptFringeLongG4</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>			
+	<female>
+		<name>F_SweptFringeLongG7</name>
+		<model>skinned/hair/F_SweptFringeLongG7</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>	
+	
+	<female>
+		<name>F_StraightFringeLongG1</name>
+		<model>skinned/hair/F_StraightFringeLongG1</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>	
+	<female>
+		<name>F_StraightFringeLongG2</name>
+		<model>skinned/hair/F_StraightFringeLongG2</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>		
+	<female>
+		<name>F_StraightFringeLongG3</name>
+		<model>skinned/hair/F_StraightFringeLongG3</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>			
+	<female>
+		<name>F_StraightFringeLongG4</name>
+		<model>skinned/hair/F_StraightFringeLongG4</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>			
+	<female>
+		<name>F_StraightFringeLongG7</name>
+		<model>skinned/hair/F_StraightFringeLongG7</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>	
+
+<!--<female>
+		<name>F_EnigmaG1</name>
+		<model>skinned/hair/F_EnigmaG1</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>	
+	<female>
+		<name>F_EnigmaG2</name>
+		<model>skinned/hair/F_EnigmaG2</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>		
+	<female>
+		<name>F_EnigmaG3</name>
+		<model>skinned/hair/F_EnigmaG3</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>			
+	<female>
+		<name>F_EnigmaG4</name>
+		<model>skinned/hair/F_EnigmaG4</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>			
+	<female>
+		<name>F_EnigmaG7</name>
+		<model>skinned/hair/F_EnigmaG7</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>		-->
+
+	<female>
+		<name>F_FormalgothG1</name>
+		<model>skinned/hair/F_FormalgothG1</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>	
+	<female>
+		<name>F_FormalgothG2</name>
+		<model>skinned/hair/F_FormalgothG2</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>		
+	<female>
+		<name>F_FormalgothG3</name>
+		<model>skinned/hair/F_FormalgothG3</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>			
+	<female>
+		<name>F_FormalgothG4</name>
+		<model>skinned/hair/F_FormalgothG4</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>			
+	<female>
+		<name>F_FormalgothG7</name>
+		<model>skinned/hair/F_FormalgothG7</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>		
+	
+	<female>
+		<name>F_VioletG1</name>
+		<model>skinned/hair/F_VioletG1</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>	
+	<female>
+		<name>F_VioletG2</name>
+		<model>skinned/hair/F_VioletG2</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>		
+	<female>
+		<name>F_VioletG3</name>
+		<model>skinned/hair/F_VioletG3</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>			
+	<female>
+		<name>F_VioletG4</name>
+		<model>skinned/hair/F_VioletG4</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>			
+	<female>
+		<name>F_VioletG7</name>
+		<model>skinned/hair/F_VioletG7</model>
+		<texture>F_Hair_White</texture>
+		<noChoose>true</noChoose>
+	</female>		
+	
+	
+</hairStyles>
