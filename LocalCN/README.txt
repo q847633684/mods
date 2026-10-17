@@ -2,10 +2,10 @@
 =======================
 
 一个 mod 收齐所有本地简体中文汉化, 无依赖: 对应 mod 装了才生效, 没装则该部分键闲置(无副作用)。
-共 22812 键。2026-10-17 更新。
+共 23205 键。2026-10-17 更新。
 
 一、包含内容 (common\media\lua\shared\Translate\CN\)
-  ItemName.json         10762  物品名
+  ItemName.json         11155  物品名
   Recipes.json           8644  配方名
   IG_UI.json             2329  界面/状态文字
   ContextMenu.json        393  右键菜单
@@ -70,4 +70,6 @@
   - 全部为 UTF-8 无 BOM 的扁平 JSON, 键按字母排序, 可直接改;
   - 新增 mod 汉化时, 把键并入同名文件即可(命名空间不冲突);
   - 占位符(%s、%1、<br>、<LINE>、\n)必须原样保留, 否则界面会显示异常;
+  - 另含 common\media\lua\shared\LocalCN_DisplayNameFix.lua：把字面 DisplayName 直接写回脚本物品，
+    保证调试物品列表这类直接读脚本名的界面也显示中文（约 4,691 个物品）。
   - 繁体(CH)未迁移: 3778852357 里的 CH 目录与 CN 内容基本重复, 如需繁体可另建 CH 目录。
