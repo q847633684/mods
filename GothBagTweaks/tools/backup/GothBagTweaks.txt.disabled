@@ -52,7 +52,7 @@ module TombAlternative
 
         component FluidContainer
         {
-            ContainerName = HydrationBackpack,
+            ContainerName = GothBagBladder,
             Capacity = 1.5,
             InitialPercentMin = 1.0,
             InitialPercentMax = 1.0,
@@ -94,7 +94,7 @@ module TombAlternative
 
         component FluidContainer
         {
-            ContainerName = HydrationBackpack,
+            ContainerName = GothBagBladder,
             Capacity = 1.5,
             InitialPercentMin = 1.0,
             InitialPercentMax = 1.0,
@@ -136,7 +136,7 @@ module TombAlternative
 
         component FluidContainer
         {
-            ContainerName = HydrationBackpack,
+            ContainerName = GothBagBladder,
             Capacity = 1.5,
             InitialPercentMin = 1.0,
             InitialPercentMax = 1.0,
@@ -178,7 +178,7 @@ module TombAlternative
 
         component FluidContainer
         {
-            ContainerName = HydrationBackpack,
+            ContainerName = GothBagBladder,
             Capacity = 1.5,
             InitialPercentMin = 1.0,
             InitialPercentMax = 1.0,

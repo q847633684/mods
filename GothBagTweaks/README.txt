@@ -6,19 +6,19 @@ Tomb Wardrobe Local Patches  (local patch mod)
   这样 Steam 更新那个 mod 时你的改动不会被覆盖。
   来源 mod: 工坊 3616536783, id TombWardrobeALTVanilla (游戏 42.21 -> 加载它的 42.20 分支)
 
-一、哥特风背包（含大型款）
-  TombAlternative.Bag_Goth_Loose / Bag_Goth_Tight          (哥特风背包)
-  TombAlternative.Bag_L_Loose  / Bag_L_Tight               (大型哥特风背包, 后加的)
-    1) 水袋: component FluidContainer, 1.5 L 水, 与传奇背包(LB.Bag_LegendaryBackpack)一致;
-       新刷出的背包默认满 1.5 L。ContainerName 用原版水袋背包的 HydrationBackpack,
-       所以喝水/装水判定与界面和原版水袋背包完全一样。
-    2) 破洞: CanHaveHoles = true (Tomb 原脚本是 false, 等于主动排除破洞)。
-    3) 挂载位: AttachmentsProvided = SmallBeltLeft;SmallBeltRight;WebbingRight;WebbingLeft;BedrollBottom
-       —— 与传奇背包同一组槽位。
-  容量/减重仍由 Tomb 自己的沙箱选项控制(TWALT.CapacityGothbag / ReductionGothbag 哥特包;
-  TWALT.CapacityLbag / ReductionLbag 大型款, 默认 28 / 85)。
-  ⚠ 为什么一开始大型款没有水袋: 第一步做补丁时选择的范围是"只改哥特风背包(Bag_Goth_*)",
-    大型款(Bag_L_*)不在范围内; 后来按要求补上, 现在四件完全一致。
+  ⚠ 2026-10-17 变更: 已按要求**移除对哥特风背包的全部修补**
+  (Bag_Goth_Loose / Bag_Goth_Tight / Bag_L_Loose / Bag_L_Tight)。
+  这四件现在完全使用 Tomb 原脚本: 不再有水袋、不再改破洞/挂载位,
+  容量与减重也完全由 Tomb 自己的沙盒选项控制, 本补丁不再插手。
+  原物品脚本已停用并备份到 tools\backup\GothBagTweaks.txt.disabled,
+  以后想恢复水袋方案时可以从这里取回(不建议直接启用, 联机需要服务端同步)。
+
+一、哥特风背包 —— 已移除
+  2026-10-17 起本补丁不再声明、也不再运行时修改这四件背包。
+  原因: 重声明已有物品 + FluidContainer 在联机下不稳定(背包被识别成水袋背包,
+  容量与沙盒设置不一致)。现在它们就是 Tomb 原版物品。
+  如仍想要"哥特背包带水袋", 需要另做方案(不能复用原版 HydrationBackpack 的
+  容器 ID, 且客户端/服务端必须同一份文件), 不要直接用备份文件覆盖回来。
 
 二、全包衣(自定义数值)
   TombAlternative.Catsuit_Full / Catsuit_Full_Open / Catsuit_Full_Open2
@@ -161,7 +161,7 @@ Tomb Wardrobe Local Patches  (local patch mod)
 文件
   mod.info                                        根声明
   42\mod.info                                     B42 分支声明 (require=TombWardrobeALTVanilla)
-  42\media\scripts\clothing\GothBagTweaks.txt     哥特背包重声明(水袋/破洞/挂载位)
+  42\media\scripts\clothing\GothBagTweaks.txt     已停用(哥特背包重声明), 备份在 tools\backup\*.disabled
   42\media\scripts\clothing\TombCatsuitTweaks.txt 全包衣三件重声明(你的数值)
   42\media\scripts\clothing\TombClothingTweaks.txt 172 件: B 档补齐 + 27 件 100% 防御件 + 9 件连体衣套用 Catsuit_Full 模板
   42\media\scripts\recipes\recipes_tomb_catsuit.txt 缝制全身皮质紧身衣配方(文件夹里原有)
@@ -178,11 +178,10 @@ Tomb Wardrobe Local Patches  (local patch mod)
   tools\regenerate-clothing-patch.ps1             生成器(Tomb 更新后重跑即可重算+重校验)
 
 使用
-  1. 主菜单 -> Mods, 勾选 "Tomb Wardrobe Local Patches (Goth Bag + Catsuit)"。
+  1. 主菜单 -> Mods, 勾选 "Tomb Wardrobe Local Patches (Catsuit + Clothing)"。
      mod.info 写了 require=TombWardrobeALTVanilla, 正常会自动排到 Tomb 的 mod 后面;
      若 Mod Manager 里排到前面, 手动拖到 Tomb's Wardrobe - Alternative [VANILLA] 之后。
-  2. 进游戏后 console.txt 应出现 4 行 [TombPatches]:
-       [TombPatches] patched goth backpack: 2 / 2
+  2. 进游戏后 console.txt 应出现 3 行 [TombPatches]:
        [TombPatches] patched catsuit: 3 / 3
        [TombPatches] patched clothing items: 172 / 172
        [TombPatches] recipe SewCatsuitFull: inputs=4 outputs=1
@@ -193,11 +192,10 @@ Tomb Wardrobe Local Patches  (local patch mod)
   4. 想改开局赠送内容: 按第六节改沙盒勾选, 或直接改 42\media\sandbox-options.txt 的 default。
 
 注意
-  * 水袋是唯一只能靠脚本重声明实现的改动(Lua 加不了组件): 捡到/做出一个哥特包, 右键若有装水/喝水
-    就说明重声明覆盖成功。旧存档里已有的哥特包水袋可能是空的, 装一次水即可, 之后新刷出的都是满的。
-  * 挂载位置精度取决于背包模型骨骼。你的 PAR 已把这两个包映射成原版 BigHikingbag 模板
-    (PAR_Backpacks.lua 第 352-361 行)。位置别扭的话: 把 BedrollBottom 换成 BedrollBottomBig,
-    或用 PAR 的 "Adjust attachment position" 校准。
+  * 哥特背包补丁已整体移除(见开头说明)。现在这四件包不使用本补丁的任何脚本/运行时代码,
+    水袋、破洞、挂载位、容量全部回到 Tomb 原版行为; 改容量请直接用 Tomb 自己的沙盒选项
+    (TWALT.CapacityGothbag / ReductionGothbag / CapacityLbag / ReductionLbag)。
+    联机时这些选项要在**服务端**改, 且客户端/服务端必须是同一份 mod 文件。
   * 沙盒选项只在创建世界时能改(单人)。老存档里这个新选项按默认值(开)生效, 所以第一次读档就会补发;
     之后想彻底关掉, 只能改 42\media\sandbox-options.txt 的 default 后再新建世界。
   * 以后改数值请同时改 .txt 和 .lua 两处(或只改 .txt 后不要再依赖 Lua 保险)。
