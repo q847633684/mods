@@ -220,6 +220,7 @@ mods
     mod = CompanionCat,
     mod = CompanionDogsMalinois,
     mod = CompanionDogsPug,
+    mod = LocalCN,
 }
 
 maps
