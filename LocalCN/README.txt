@@ -2,11 +2,11 @@
 =======================
 
 一个 mod 收齐所有本地简体中文汉化, 无依赖: 对应 mod 装了才生效, 没装则该部分键闲置(无副作用)。
-共 23205 键。2026-10-17 更新。
+共 23371 键。2026-10-20 更新。
 
 一、包含内容 (42\media\lua\shared\Translate\CN\)
-  ItemName.json         11155  物品名
-  Recipes.json           8644  配方名
+  ItemName.json         11235  物品名
+  Recipes.json           8730  配方名
   IG_UI.json             2329  界面/状态文字
   ContextMenu.json        393  右键菜单
   EvolvedRecipeName.json  219  料理/进化配方名
@@ -52,6 +52,13 @@
  12. 其余 mod 的字面物品名 1,533 条（Authentic Z、NewMusicJayChou、Boots Expanded、
        Backpacks+、Tomb's Wardrobe、SpongieOpenJackets、RadArchery 等）
        按物品 ID 复用现有译文，逐条校验颜色 / 人物名 / 部位，修正错配 50 余条。
+ 13. 2026-10-20 补齐 166 条（按游戏内实测缺口）：
+       物品 80：ZomboLust Lewd Models 73（面容/细节/体毛/胡茬）、Sunshi's Cooler System 3、
+                Tuna_MultiVHS 2、NewMusic(耳机) 1、NewMusicJayChou(JAY CD) 1
+       配方 86：RadArchery 80（削制箭杆/箭镞/箭羽/弓、打包拆包等）、Sunshi's Cooler System 4、
+                Authentic Z 2（拆解耳机、撑大衣物 XL）
+       说明：这些条目原本在脚本里没有 DisplayName/Name，界面直接把物品 ID / 配方 ID 当名字显示，
+             所以按 fullType（Module.Item）和 recipe id 建键即可生效。
 
 三、启用
   1. Mods 列表勾选 "本地汉化合集 (LocalCN)";
