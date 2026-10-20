@@ -4,7 +4,7 @@
 一个 mod 收齐所有本地简体中文汉化, 无依赖: 对应 mod 装了才生效, 没装则该部分键闲置(无副作用)。
 共 23205 键。2026-10-17 更新。
 
-一、包含内容 (common\media\lua\shared\Translate\CN\)
+一、包含内容 (42\media\lua\shared\Translate\CN\)
   ItemName.json         11155  物品名
   Recipes.json           8644  配方名
   IG_UI.json             2329  界面/状态文字
@@ -58,6 +58,14 @@
   2. 重启游戏(翻译只在启动时加载);
   3. 语言需为简体中文(CN)。
 
+  ⚠ 目录结构(2026-10-20 修): 内容必须放在版本子目录里, 且版本目录要有 mod.info,
+     否则游戏枚举 mod 时整包被跳过, Mods 列表里根本看不到本 mod。
+     ZomboidFileSystem.getAllModFoldersAux 只认 <mod>\common\mod.info 或 <mod>\<版本>\mod.info,
+     根目录 mod.info 不算。当前结构(与 GothBagTweaks / Being Female 一致):
+        LocalCN\mod.info                根声明(可留, 不参与枚举)
+        LocalCN\42\mod.info             B42 分支声明(枚举靠它)
+        LocalCN\42\media\...            全部翻译与 lua
+
 四、关于 VOE / VGE / PBC 的键
   这几个 mod 的物品脚本用的是字面 DisplayName(如 "Jacket - Tracksuit"), 不是翻译键。
   为兼容游戏可能的三种取值方式, 本合集对每个物品同时提供:
@@ -70,6 +78,6 @@
   - 全部为 UTF-8 无 BOM 的扁平 JSON, 键按字母排序, 可直接改;
   - 新增 mod 汉化时, 把键并入同名文件即可(命名空间不冲突);
   - 占位符(%s、%1、<br>、<LINE>、\n)必须原样保留, 否则界面会显示异常;
-  - 另含 common\media\lua\shared\LocalCN_DisplayNameFix.lua：把字面 DisplayName 直接写回脚本物品，
+  - 另含 42\media\lua\shared\LocalCN_DisplayNameFix.lua：把字面 DisplayName 直接写回脚本物品，
     保证调试物品列表这类直接读脚本名的界面也显示中文（约 4,691 个物品）。
   - 繁体(CH)未迁移: 3778852357 里的 CH 目录与 CN 内容基本重复, 如需繁体可另建 CH 目录。
