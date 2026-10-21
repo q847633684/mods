@@ -2,11 +2,11 @@
 =======================
 
 一个 mod 收齐所有本地简体中文汉化, 无依赖: 对应 mod 装了才生效, 没装则该部分键闲置(无副作用)。
-共 23371 键。2026-10-20 更新。
+共 23390 键。2026-10-21 更新。
 
 一、包含内容 (42\media\lua\shared\Translate\CN\)
-  ItemName.json         11235  物品名
-  Recipes.json           8730  配方名
+  ItemName.json         11243  物品名
+  Recipes.json           8741  配方名
   IG_UI.json             2329  界面/状态文字
   ContextMenu.json        393  右键菜单
   EvolvedRecipeName.json  219  料理/进化配方名
@@ -59,6 +59,14 @@
                 Authentic Z 2（拆解耳机、撑大衣物 XL）
        说明：这些条目原本在脚本里没有 DisplayName/Name，界面直接把物品 ID / 配方 ID 当名字显示，
              所以按 fullType（Module.Item）和 recipe id 建键即可生效。
+ 14. 2026-10-21 跟进 that DAMN Library v0.9878b（19 条）：
+       物品 8：新增四个路牌图形（枪械/住所/机械/医疗）的简易版与三脚架版
+                damnCraft.SignGunW / SignHomeW / SignMechW / SignMedW
+                damnCraft.SignTripodGunW / SignTripodHomeW / SignTripodMechW / SignTripodMedW
+       配方 11：刷白色枪械/住所/机械/医疗标志（简易 4 + 三脚架 4）、擦除标志、擦除三脚架标志、
+                制作钢丝球（damnCraftMakeSteelWool，产物是原版 Base.SteelWool=钢丝球）
+       做法：把 damnlib 的 common\...\Translate\EN\*.json 与本地 CN 同名文件做键集对比，
+             只补 CN 缺的键；本次 Fluids/IG_UI/Sandbox/Tooltip 均为 0 缺口。
 
 三、启用
   1. Mods 列表勾选 "本地汉化合集 (LocalCN)";
