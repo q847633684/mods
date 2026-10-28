@@ -2,4 +2,4 @@ name=Tomb Wardrobe Local Patches (Catsuit + Clothing)
 id=GothBagTweaks
 author=local patch
 description=Full catsuit (Catsuit_Full / _Open / _Open2): custom defence/coverage values. 172 clothing items: B-tier parameter completeness + 100% defence on harnesses/underwear-accessories by covered part. Goth chest-rig start kit (sandbox options). Goth backpack (Bag_Goth_* / Bag_L_*) is intentionally NOT patched. Generated for Tomb's Wardrobe - Alternative [VANILLA] -- rerun the generator with -Variant when you switch Tomb variant.
-require=TombWardrobeALTVanilla
+require=TombWardrobeALTVanilla,TakeABathAndShowerNew
